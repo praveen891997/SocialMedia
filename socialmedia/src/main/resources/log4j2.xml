@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration xmlns="http://logging.apache.org/log4j/2.0/config">
+    <Properties>
+        <Property name="basePath">../socialmedia/logs</Property>
+    </Properties>
+    <Appenders>
+    
+        <!-- Console Appender -->
+        <Console name="STDOUT" target="SYSTEM_OUT">
+            <PatternLayout pattern="%-5p | %d{yyyy-MM-dd HH:mm:ss} | [%t] %C{1} (%F:%L) - %m%n" />
+        </Console>
+        
+		<RollingFile name="WARN_LOG"
+			fileName="${basePath}/WARN.log" filePattern="${basePath}/WARN.%i.log.gz">
+			<LevelRangeFilter minLevel="WARN" maxLevel="WARN" onMatch="ACCEPT" onMismatch="DENY"/>
+		    <PatternLayout>
+		        <Pattern>%d{yyyy-MM-dd HH:mm:ss} %-5p %m%n</Pattern>
+		    </PatternLayout>
+		    <Policies>
+		        <SizeBasedTriggeringPolicy size="10MB" />
+		    </Policies>
+	   </RollingFile>
+           
+		<RollingFile name="INFO_LOG"
+			fileName="${basePath}/INFO.log" filePattern="${basePath}/INFO.%i.log.gz">
+			<LevelRangeFilter minLevel="INFO" maxLevel="INFO" onMatch="ACCEPT" onMismatch="DENY"/>
+		    <PatternLayout>
+		        <Pattern>%d{yyyy-MM-dd HH:mm:ss} %-5p %m%n</Pattern>
+		    </PatternLayout>
+		    <Policies>
+		        <SizeBasedTriggeringPolicy size="10MB" />
+		    </Policies>
+	   </RollingFile>
+
+	<RollingFile name="ERROR_LOG"
+			fileName="${basePath}/ERROR.log" filePattern="${basePath}/ERROR.%i.log.gz">
+			<LevelRangeFilter minLevel="ERROR" maxLevel="ERROR" onMatch="ACCEPT" onMismatch="DENY"/>
+		    <PatternLayout>
+		        <Pattern>%d{yyyy-MM-dd HH:mm:ss} %-5p %m%n</Pattern>
+		    </PatternLayout>
+		    <Policies>
+		        <SizeBasedTriggeringPolicy size="10MB" />
+		    </Policies>
+	   </RollingFile>
+	
+	
+	<RollingFile name="DEBUG_LOG"
+			fileName="${basePath}/DEBUG.log" filePattern="${basePath}/DEBUG.%i.log.gz">
+			<LevelRangeFilter minLevel="DEBUG" maxLevel="DEBUG" onMatch="ACCEPT" onMismatch="DENY"/>
+		    <PatternLayout>
+		        <Pattern>%d{yyyy-MM-dd HH:mm:ss} %-5p %m%n</Pattern>
+		    </PatternLayout>
+		    <Policies>
+		        <SizeBasedTriggeringPolicy size="10MB" />
+		    </Policies>
+	   </RollingFile>
+      
+    </Appenders>
+    <Loggers>
+        <Root level="debug">
+            <AppenderRef ref="STDOUT" />
+            <AppenderRef ref="WARN_LOG" />
+            <AppenderRef ref="INFO_LOG" />
+            <AppenderRef ref="ERROR_LOG" />
+            <AppenderRef ref="DEBUG_LOG" />
+        </Root>
+    </Loggers>
+</Configuration>

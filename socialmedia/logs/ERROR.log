@@ -1,0 +1,19 @@
+2021-04-19 22:41:39 ERROR comments for post id 100Not Found
+2021-04-19 22:41:54 ERROR comments for user id 18Not Found
+2021-04-19 22:42:42 ERROR comment for comment id 12Not Found
+2021-04-20 09:31:56 ERROR post for user id 90Not Found
+2021-04-20 09:45:51 ERROR post with id100Not Found
+2021-04-20 09:47:36 ERROR post with id26Not Found
+2021-04-20 09:48:22 ERROR comments for user id 90Not Found
+2021-04-20 09:51:24 ERROR post with id23Not Found
+2021-04-20 10:18:01 ERROR user already exists
+2021-04-20 10:18:14 ERROR user already exists
+2021-04-20 10:24:25 ERROR invalid email/password
+2021-04-20 11:03:47 ERROR NO FRIEND ADDED
+2021-04-20 13:46:43 ERROR NO FRIEND ADDED
+2021-04-20 13:48:17 ERROR ERROR: update or delete on table "ausers" violates foreign key constraint "fklomctlivxvij3pypff8sy20e1" on table "friendr2"
+  Detail: Key (user_id)=(62) is still referenced from table "friendr2".
+2021-04-20 13:51:43 ERROR post for user id 13Not Found
+2021-04-20 13:51:45 ERROR post for user id 13Not Found
+2021-04-21 09:40:46 ERROR invalid email/password
+2021-04-21 11:53:03 ERROR comments for post id 17Not Found

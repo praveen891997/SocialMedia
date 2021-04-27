@@ -1,0 +1,1386 @@
+2021-04-19 21:43:21 INFO  HV000001: Hibernate Validator 6.1.7.Final
+2021-04-19 21:43:21 INFO  Starting SocialMediaApplication using Java 15.0.2 on LIN20004802 with PID 15280 (C:\Users\VSUDARSH\Downloads\SocialMedia\target\classes started by vsudarsh in C:\Users\VSUDARSH\Downloads\SocialMedia)
+2021-04-19 21:43:21 INFO  No active profile set, falling back to default profiles: default
+2021-04-19 21:43:21 INFO  Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-04-19 21:43:21 INFO  For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-04-19 21:43:23 INFO  Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-19 21:43:23 INFO  Finished Spring Data repository scanning in 128 ms. Found 9 JPA repository interfaces.
+2021-04-19 21:43:24 INFO  Tomcat initialized with port(s): 8080 (http)
+2021-04-19 21:43:24 INFO  Initializing ProtocolHandler ["http-nio-8080"]
+2021-04-19 21:43:24 INFO  Starting service [Tomcat]
+2021-04-19 21:43:24 INFO  Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-04-19 21:43:24 INFO  Initializing Spring embedded WebApplicationContext
+2021-04-19 21:43:25 INFO  Root WebApplicationContext: initialization completed in 3027 ms
+2021-04-19 21:43:25 INFO  HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-19 21:43:25 INFO  HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-19 21:43:25 INFO  HikariPool-1 - Starting...
+2021-04-19 21:43:26 INFO  HikariPool-1 - Start completed.
+2021-04-19 21:43:26 INFO  HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2021-04-19 21:43:28 INFO  HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-19 21:43:28 INFO  Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-19 21:43:28 INFO  LiveReload server is running on port 35729
+2021-04-19 21:43:30 INFO  Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-19 21:43:30 INFO  Starting ProtocolHandler ["http-nio-8080"]
+2021-04-19 21:43:31 INFO  Tomcat started on port(s): 8080 (http) with context path ''
+2021-04-19 21:43:31 INFO  Context refreshed
+2021-04-19 21:43:31 INFO  Found 1 custom documentation plugin(s)
+2021-04-19 21:43:31 INFO  Scanning for api listing references
+2021-04-19 21:43:31 INFO  Generating unique operation named: findAllPostUsingGET_1
+2021-04-19 21:43:31 INFO  Generating unique operation named: findAllUserIdUsingGET_1
+2021-04-19 21:43:31 INFO  Generating unique operation named: deleteUserUsingDELETE_1
+2021-04-19 21:43:31 INFO  Generating unique operation named: findAllPostUsingGET_2
+2021-04-19 21:43:31 INFO  Generating unique operation named: deleteCommentUsingDELETE_1
+2021-04-19 21:43:31 INFO  Generating unique operation named: viewAllCommentsUsingGET_1
+2021-04-19 21:43:31 INFO  Generating unique operation named: deletePostUsingDELETE_1
+2021-04-19 21:43:32 INFO  Started SocialMediaApplication in 10.923 seconds (JVM running for 13.334)
+2021-04-19 21:46:27 INFO  Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-19 21:46:27 INFO  Initializing Servlet 'dispatcherServlet'
+2021-04-19 21:46:27 INFO  Completed initialization in 8 ms
+2021-04-19 21:47:07 INFO  To view all thecomments
+2021-04-19 21:50:23 INFO  Application shutdown requested.
+2021-04-19 21:50:23 INFO  Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-19 21:50:23 INFO  Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-19 21:50:23 INFO  HikariPool-1 - Shutdown initiated...
+2021-04-19 21:50:23 INFO  HikariPool-1 - Shutdown completed.
+2021-04-19 22:40:43 INFO  HV000001: Hibernate Validator 6.1.7.Final
+2021-04-19 22:40:43 INFO  Starting SocialMediaApplication using Java 15.0.2 on LIN20004802 with PID 15032 (C:\Users\VSUDARSH\Downloads\SocialMedia\target\classes started by vsudarsh in C:\Users\VSUDARSH\Downloads\SocialMedia)
+2021-04-19 22:40:43 INFO  No active profile set, falling back to default profiles: default
+2021-04-19 22:40:43 INFO  Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-04-19 22:40:43 INFO  For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-04-19 22:40:45 INFO  Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-19 22:40:45 INFO  Finished Spring Data repository scanning in 114 ms. Found 9 JPA repository interfaces.
+2021-04-19 22:40:46 INFO  Tomcat initialized with port(s): 8080 (http)
+2021-04-19 22:40:46 INFO  Initializing ProtocolHandler ["http-nio-8080"]
+2021-04-19 22:40:46 INFO  Starting service [Tomcat]
+2021-04-19 22:40:46 INFO  Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-04-19 22:40:47 INFO  Initializing Spring embedded WebApplicationContext
+2021-04-19 22:40:47 INFO  Root WebApplicationContext: initialization completed in 3168 ms
+2021-04-19 22:40:47 INFO  HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-19 22:40:47 INFO  HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-19 22:40:48 INFO  HikariPool-1 - Starting...
+2021-04-19 22:40:48 INFO  HikariPool-1 - Start completed.
+2021-04-19 22:40:48 INFO  HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2021-04-19 22:40:51 INFO  HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-19 22:40:51 INFO  Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-19 22:40:51 INFO  LiveReload server is running on port 35729
+2021-04-19 22:40:53 INFO  Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-19 22:40:53 INFO  Starting ProtocolHandler ["http-nio-8080"]
+2021-04-19 22:40:53 INFO  Tomcat started on port(s): 8080 (http) with context path ''
+2021-04-19 22:40:53 INFO  Context refreshed
+2021-04-19 22:40:53 INFO  Found 1 custom documentation plugin(s)
+2021-04-19 22:40:53 INFO  Scanning for api listing references
+2021-04-19 22:40:54 INFO  Generating unique operation named: findAllPostUsingGET_1
+2021-04-19 22:40:54 INFO  Generating unique operation named: findAllUserIdUsingGET_1
+2021-04-19 22:40:54 INFO  Generating unique operation named: deleteUserUsingDELETE_1
+2021-04-19 22:40:54 INFO  Generating unique operation named: findAllPostUsingGET_2
+2021-04-19 22:40:54 INFO  Generating unique operation named: deleteCommentUsingDELETE_1
+2021-04-19 22:40:54 INFO  Generating unique operation named: viewAllCommentsUsingGET_1
+2021-04-19 22:40:54 INFO  Generating unique operation named: deletePostUsingDELETE_1
+2021-04-19 22:40:54 INFO  Started SocialMediaApplication in 11.524 seconds (JVM running for 13.573)
+2021-04-19 22:41:05 INFO  Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-19 22:41:05 INFO  Initializing Servlet 'dispatcherServlet'
+2021-04-19 22:41:05 INFO  Completed initialization in 4 ms
+2021-04-19 22:41:13 INFO  To view all the post id's which contain comments
+2021-04-19 22:41:25 INFO  To view all the user id's who made comments
+2021-04-19 22:41:39 INFO  To view all the comments for post id 100
+2021-04-19 22:41:54 INFO  To view all the comments for user id 18
+2021-04-19 22:42:28 INFO  To view all the comments for user id 9
+2021-04-19 22:42:42 INFO  To view all the comments for comment id 12
+2021-04-19 22:44:34 INFO  Application shutdown requested.
+2021-04-19 22:44:34 INFO  Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-19 22:44:34 INFO  Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-19 22:44:34 INFO  HikariPool-1 - Shutdown initiated...
+2021-04-19 22:44:34 INFO  HikariPool-1 - Shutdown completed.
+2021-04-19 22:53:23 INFO  HV000001: Hibernate Validator 6.1.7.Final
+2021-04-19 22:53:23 INFO  Starting SocialMediaApplication using Java 15.0.2 on LIN20004802 with PID 13492 (C:\Users\VSUDARSH\Downloads\SocialMedia\target\classes started by vsudarsh in C:\Users\VSUDARSH\Downloads\SocialMedia)
+2021-04-19 22:53:23 INFO  No active profile set, falling back to default profiles: default
+2021-04-19 22:53:23 INFO  Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-04-19 22:53:23 INFO  For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-04-19 22:53:24 INFO  Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-19 22:53:25 INFO  Finished Spring Data repository scanning in 129 ms. Found 9 JPA repository interfaces.
+2021-04-19 22:53:25 INFO  Tomcat initialized with port(s): 8080 (http)
+2021-04-19 22:53:26 INFO  Initializing ProtocolHandler ["http-nio-8080"]
+2021-04-19 22:53:26 INFO  Starting service [Tomcat]
+2021-04-19 22:53:26 INFO  Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-04-19 22:53:26 INFO  Initializing Spring embedded WebApplicationContext
+2021-04-19 22:53:26 INFO  Root WebApplicationContext: initialization completed in 2787 ms
+2021-04-19 22:53:26 INFO  HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-19 22:53:26 INFO  HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-19 22:53:27 INFO  HikariPool-1 - Starting...
+2021-04-19 22:53:27 INFO  HikariPool-1 - Start completed.
+2021-04-19 22:53:27 INFO  HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2021-04-19 22:53:29 INFO  HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-19 22:53:30 INFO  Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-19 22:53:30 INFO  LiveReload server is running on port 35729
+2021-04-19 22:53:32 INFO  Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-19 22:53:32 INFO  Starting ProtocolHandler ["http-nio-8080"]
+2021-04-19 22:53:32 INFO  Tomcat started on port(s): 8080 (http) with context path ''
+2021-04-19 22:53:32 INFO  Context refreshed
+2021-04-19 22:53:32 INFO  Found 1 custom documentation plugin(s)
+2021-04-19 22:53:32 INFO  Scanning for api listing references
+2021-04-19 22:53:32 INFO  Generating unique operation named: findAllPostUsingGET_1
+2021-04-19 22:53:32 INFO  Generating unique operation named: findAllUserIdUsingGET_1
+2021-04-19 22:53:32 INFO  Generating unique operation named: deleteUserUsingDELETE_1
+2021-04-19 22:53:32 INFO  Generating unique operation named: findAllPostUsingGET_2
+2021-04-19 22:53:33 INFO  Generating unique operation named: deleteCommentUsingDELETE_1
+2021-04-19 22:53:33 INFO  Generating unique operation named: viewAllCommentsUsingGET_1
+2021-04-19 22:53:33 INFO  Generating unique operation named: deletePostUsingDELETE_1
+2021-04-19 22:53:33 INFO  Started SocialMediaApplication in 10.635 seconds (JVM running for 12.704)
+2021-04-19 22:53:54 INFO  Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-19 22:53:54 INFO  Initializing Servlet 'dispatcherServlet'
+2021-04-19 22:53:54 INFO  Completed initialization in 4 ms
+2021-04-19 22:53:54 INFO  To view all the comments for comment id 4
+2021-04-19 22:53:54 INFO  comment for comment id 4is presentComment [comment_id=4, comment_content=very informative, comment_likes=4, commentedOn=2021-04-19, post=Post [post_id=18, post_content=https://www.youtube.com/watch?v=jfKhh4dINMA, post_likes=40, postedOn=2021-03-25, title=Servlets, userProfile=UserProfile [userprofile_id=10, about=Employee, gender=Male, createdOn=2021-01-07, profilePicUrl=harshal123, languages=.net]], userProfile=UserProfile [userprofile_id=9, about=Student, gender=Female, createdOn=2021-03-04, profilePicUrl=gayatri123, languages=java]]
+2021-04-19 22:54:29 INFO  Application shutdown requested.
+2021-04-19 22:54:29 INFO  Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-19 22:54:29 INFO  Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-19 22:54:29 INFO  HikariPool-1 - Shutdown initiated...
+2021-04-19 22:54:29 INFO  HikariPool-1 - Shutdown completed.
+2021-04-20 09:31:11 INFO  HV000001: Hibernate Validator 6.1.7.Final
+2021-04-20 09:31:11 INFO  Starting SocialMediaApplication using Java 15.0.2 on LIN20004802 with PID 18836 (C:\Users\VSUDARSH\Downloads\SocialMedia\target\classes started by vsudarsh in C:\Users\VSUDARSH\Downloads\SocialMedia)
+2021-04-20 09:31:11 INFO  No active profile set, falling back to default profiles: default
+2021-04-20 09:31:11 INFO  Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-04-20 09:31:11 INFO  For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-04-20 09:31:13 INFO  Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-20 09:31:13 INFO  Finished Spring Data repository scanning in 171 ms. Found 9 JPA repository interfaces.
+2021-04-20 09:31:15 INFO  Tomcat initialized with port(s): 8080 (http)
+2021-04-20 09:31:15 INFO  Initializing ProtocolHandler ["http-nio-8080"]
+2021-04-20 09:31:15 INFO  Starting service [Tomcat]
+2021-04-20 09:31:15 INFO  Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-04-20 09:31:15 INFO  Initializing Spring embedded WebApplicationContext
+2021-04-20 09:31:15 INFO  Root WebApplicationContext: initialization completed in 4066 ms
+2021-04-20 09:31:15 INFO  HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-20 09:31:16 INFO  HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-20 09:31:16 INFO  HikariPool-1 - Starting...
+2021-04-20 09:31:17 INFO  HikariPool-1 - Start completed.
+2021-04-20 09:31:17 INFO  HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2021-04-20 09:31:20 INFO  HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-20 09:31:20 INFO  Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-20 09:31:20 INFO  LiveReload server is running on port 35729
+2021-04-20 09:31:22 INFO  Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-20 09:31:23 INFO  Starting ProtocolHandler ["http-nio-8080"]
+2021-04-20 09:31:23 INFO  Tomcat started on port(s): 8080 (http) with context path ''
+2021-04-20 09:31:23 INFO  Context refreshed
+2021-04-20 09:31:23 INFO  Found 1 custom documentation plugin(s)
+2021-04-20 09:31:23 INFO  Scanning for api listing references
+2021-04-20 09:31:24 INFO  Generating unique operation named: findAllPostUsingGET_1
+2021-04-20 09:31:24 INFO  Generating unique operation named: findAllUserIdUsingGET_1
+2021-04-20 09:31:24 INFO  Generating unique operation named: deleteUserUsingDELETE_1
+2021-04-20 09:31:24 INFO  Generating unique operation named: findAllPostUsingGET_2
+2021-04-20 09:31:24 INFO  Generating unique operation named: deleteCommentUsingDELETE_1
+2021-04-20 09:31:24 INFO  Generating unique operation named: viewAllCommentsUsingGET_1
+2021-04-20 09:31:24 INFO  Generating unique operation named: deletePostUsingDELETE_1
+2021-04-20 09:31:24 INFO  Started SocialMediaApplication in 14.544 seconds (JVM running for 17.51)
+2021-04-20 09:31:40 INFO  Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-20 09:31:40 INFO  Initializing Servlet 'dispatcherServlet'
+2021-04-20 09:31:40 INFO  Completed initialization in 7 ms
+2021-04-20 09:32:39 INFO  Application shutdown requested.
+2021-04-20 09:32:39 INFO  Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-20 09:32:39 INFO  Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-20 09:32:39 INFO  HikariPool-1 - Shutdown initiated...
+2021-04-20 09:32:39 INFO  HikariPool-1 - Shutdown completed.
+2021-04-20 09:37:02 INFO  HV000001: Hibernate Validator 6.1.7.Final
+2021-04-20 09:37:02 INFO  Starting SocialMediaApplication using Java 15.0.2 on LIN20004802 with PID 13700 (C:\Users\VSUDARSH\Downloads\SocialMedia\target\classes started by vsudarsh in C:\Users\VSUDARSH\Downloads\SocialMedia)
+2021-04-20 09:37:02 INFO  No active profile set, falling back to default profiles: default
+2021-04-20 09:37:02 INFO  Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-04-20 09:37:02 INFO  For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-04-20 09:37:04 INFO  Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-20 09:37:04 INFO  Finished Spring Data repository scanning in 148 ms. Found 9 JPA repository interfaces.
+2021-04-20 09:37:05 INFO  Tomcat initialized with port(s): 8080 (http)
+2021-04-20 09:37:05 INFO  Initializing ProtocolHandler ["http-nio-8080"]
+2021-04-20 09:37:05 INFO  Starting service [Tomcat]
+2021-04-20 09:37:05 INFO  Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-04-20 09:37:05 INFO  Initializing Spring embedded WebApplicationContext
+2021-04-20 09:37:05 INFO  Root WebApplicationContext: initialization completed in 3426 ms
+2021-04-20 09:37:06 INFO  HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-20 09:37:06 INFO  HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-20 09:37:06 INFO  HikariPool-1 - Starting...
+2021-04-20 09:37:07 INFO  HikariPool-1 - Start completed.
+2021-04-20 09:37:07 INFO  HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2021-04-20 09:37:10 INFO  HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-20 09:37:10 INFO  Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-20 09:37:10 INFO  LiveReload server is running on port 35729
+2021-04-20 09:37:12 INFO  Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-20 09:37:12 INFO  Starting ProtocolHandler ["http-nio-8080"]
+2021-04-20 09:37:13 INFO  Tomcat started on port(s): 8080 (http) with context path ''
+2021-04-20 09:37:13 INFO  Context refreshed
+2021-04-20 09:37:13 INFO  Found 1 custom documentation plugin(s)
+2021-04-20 09:37:13 INFO  Scanning for api listing references
+2021-04-20 09:37:13 INFO  Generating unique operation named: findAllPostUsingGET_1
+2021-04-20 09:37:13 INFO  Generating unique operation named: findAllUserIdUsingGET_1
+2021-04-20 09:37:13 INFO  Generating unique operation named: deleteUserUsingDELETE_1
+2021-04-20 09:37:13 INFO  Generating unique operation named: findAllPostUsingGET_2
+2021-04-20 09:37:13 INFO  Generating unique operation named: deleteCommentUsingDELETE_1
+2021-04-20 09:37:13 INFO  Generating unique operation named: viewAllCommentsUsingGET_1
+2021-04-20 09:37:14 INFO  Generating unique operation named: deletePostUsingDELETE_1
+2021-04-20 09:37:14 INFO  Started SocialMediaApplication in 12.777 seconds (JVM running for 15.146)
+2021-04-20 09:37:52 INFO  Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-20 09:37:52 INFO  Initializing Servlet 'dispatcherServlet'
+2021-04-20 09:37:52 INFO  Completed initialization in 7 ms
+2021-04-20 09:37:52 INFO  Not Found
+2021-04-20 09:38:27 INFO  Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-20 09:38:27 INFO  Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-20 09:38:27 INFO  HikariPool-1 - Shutdown initiated...
+2021-04-20 09:38:27 INFO  HikariPool-1 - Shutdown completed.
+2021-04-20 09:38:27 INFO  Starting SocialMediaApplication using Java 15.0.2 on LIN20004802 with PID 13700 (C:\Users\VSUDARSH\Downloads\SocialMedia\target\classes started by vsudarsh in C:\Users\VSUDARSH\Downloads\SocialMedia)
+2021-04-20 09:38:27 INFO  No active profile set, falling back to default profiles: default
+2021-04-20 09:38:28 INFO  Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-20 09:38:28 INFO  Finished Spring Data repository scanning in 64 ms. Found 9 JPA repository interfaces.
+2021-04-20 09:38:29 INFO  Tomcat initialized with port(s): 8080 (http)
+2021-04-20 09:38:29 INFO  Initializing ProtocolHandler ["http-nio-8080"]
+2021-04-20 09:38:29 INFO  Starting service [Tomcat]
+2021-04-20 09:38:29 INFO  Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-04-20 09:38:29 INFO  Initializing Spring embedded WebApplicationContext
+2021-04-20 09:38:29 INFO  Root WebApplicationContext: initialization completed in 1178 ms
+2021-04-20 09:38:29 INFO  HikariPool-2 - Starting...
+2021-04-20 09:38:29 INFO  HikariPool-2 - Start completed.
+2021-04-20 09:38:29 INFO  HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2021-04-20 09:38:31 INFO  HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-20 09:38:31 INFO  Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-20 09:38:31 INFO  LiveReload server is running on port 35729
+2021-04-20 09:38:32 INFO  Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-20 09:38:32 INFO  Starting ProtocolHandler ["http-nio-8080"]
+2021-04-20 09:38:32 INFO  Tomcat started on port(s): 8080 (http) with context path ''
+2021-04-20 09:38:32 INFO  Context refreshed
+2021-04-20 09:38:32 INFO  Found 1 custom documentation plugin(s)
+2021-04-20 09:38:32 INFO  Scanning for api listing references
+2021-04-20 09:38:32 INFO  Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-20 09:38:32 INFO  Initializing Servlet 'dispatcherServlet'
+2021-04-20 09:38:32 INFO  Completed initialization in 4 ms
+2021-04-20 09:38:32 INFO  Post with post id 18Not Found
+2021-04-20 09:38:33 INFO  Generating unique operation named: findAllPostUsingGET_1
+2021-04-20 09:38:33 INFO  Generating unique operation named: findAllUserIdUsingGET_1
+2021-04-20 09:38:33 INFO  Generating unique operation named: deleteUserUsingDELETE_1
+2021-04-20 09:38:33 INFO  Generating unique operation named: findAllPostUsingGET_2
+2021-04-20 09:38:33 INFO  Generating unique operation named: deleteCommentUsingDELETE_1
+2021-04-20 09:38:33 INFO  Generating unique operation named: viewAllCommentsUsingGET_1
+2021-04-20 09:38:33 INFO  Generating unique operation named: deletePostUsingDELETE_1
+2021-04-20 09:38:33 INFO  Started SocialMediaApplication in 5.96 seconds (JVM running for 94.522)
+2021-04-20 09:38:33 INFO  Condition evaluation unchanged
+2021-04-20 09:39:28 INFO  Post with post id 18Not Found
+2021-04-20 09:40:51 INFO  Post with post id 100Not Found
+2021-04-20 09:41:52 INFO  Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-20 09:41:52 INFO  Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-20 09:41:52 INFO  HikariPool-2 - Shutdown initiated...
+2021-04-20 09:41:52 INFO  HikariPool-2 - Shutdown completed.
+2021-04-20 09:41:53 INFO  Starting SocialMediaApplication using Java 15.0.2 on LIN20004802 with PID 13700 (C:\Users\VSUDARSH\Downloads\SocialMedia\target\classes started by vsudarsh in C:\Users\VSUDARSH\Downloads\SocialMedia)
+2021-04-20 09:41:53 INFO  No active profile set, falling back to default profiles: default
+2021-04-20 09:41:53 INFO  Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-20 09:41:53 INFO  Finished Spring Data repository scanning in 80 ms. Found 9 JPA repository interfaces.
+2021-04-20 09:41:54 INFO  Tomcat initialized with port(s): 8080 (http)
+2021-04-20 09:41:54 INFO  Initializing ProtocolHandler ["http-nio-8080"]
+2021-04-20 09:41:54 INFO  Starting service [Tomcat]
+2021-04-20 09:41:54 INFO  Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-04-20 09:41:54 INFO  Initializing Spring embedded WebApplicationContext
+2021-04-20 09:41:54 INFO  Root WebApplicationContext: initialization completed in 1064 ms
+2021-04-20 09:41:54 INFO  HikariPool-3 - Starting...
+2021-04-20 09:41:54 INFO  HikariPool-3 - Start completed.
+2021-04-20 09:41:54 INFO  HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2021-04-20 09:41:55 INFO  HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-20 09:41:55 INFO  Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-20 09:41:55 INFO  LiveReload server is running on port 35729
+2021-04-20 09:41:56 INFO  Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-20 09:41:57 INFO  Starting ProtocolHandler ["http-nio-8080"]
+2021-04-20 09:41:57 INFO  Tomcat started on port(s): 8080 (http) with context path ''
+2021-04-20 09:41:57 INFO  Context refreshed
+2021-04-20 09:41:57 INFO  Found 1 custom documentation plugin(s)
+2021-04-20 09:41:57 INFO  Scanning for api listing references
+2021-04-20 09:41:57 INFO  Generating unique operation named: findAllPostUsingGET_1
+2021-04-20 09:41:57 INFO  Generating unique operation named: findAllUserIdUsingGET_1
+2021-04-20 09:41:57 INFO  Generating unique operation named: deleteUserUsingDELETE_1
+2021-04-20 09:41:57 INFO  Generating unique operation named: findAllPostUsingGET_2
+2021-04-20 09:41:57 INFO  Generating unique operation named: deleteCommentUsingDELETE_1
+2021-04-20 09:41:57 INFO  Generating unique operation named: viewAllCommentsUsingGET_1
+2021-04-20 09:41:57 INFO  Generating unique operation named: deletePostUsingDELETE_1
+2021-04-20 09:41:57 INFO  Started SocialMediaApplication in 4.975 seconds (JVM running for 298.786)
+2021-04-20 09:41:57 INFO  Condition evaluation unchanged
+2021-04-20 09:42:06 INFO  Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-20 09:42:06 INFO  Initializing Servlet 'dispatcherServlet'
+2021-04-20 09:42:06 INFO  Completed initialization in 5 ms
+2021-04-20 09:42:06 INFO  Post with post id 18is present
+2021-04-20 09:45:24 INFO  Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-20 09:45:24 INFO  Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-20 09:45:24 INFO  HikariPool-3 - Shutdown initiated...
+2021-04-20 09:45:24 INFO  HikariPool-3 - Shutdown completed.
+2021-04-20 09:45:24 INFO  Starting SocialMediaApplication using Java 15.0.2 on LIN20004802 with PID 13700 (C:\Users\VSUDARSH\Downloads\SocialMedia\target\classes started by vsudarsh in C:\Users\VSUDARSH\Downloads\SocialMedia)
+2021-04-20 09:45:24 INFO  No active profile set, falling back to default profiles: default
+2021-04-20 09:45:25 INFO  Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-20 09:45:25 INFO  Finished Spring Data repository scanning in 68 ms. Found 9 JPA repository interfaces.
+2021-04-20 09:45:25 INFO  Tomcat initialized with port(s): 8080 (http)
+2021-04-20 09:45:25 INFO  Initializing ProtocolHandler ["http-nio-8080"]
+2021-04-20 09:45:25 INFO  Starting service [Tomcat]
+2021-04-20 09:45:25 INFO  Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-04-20 09:45:25 INFO  Initializing Spring embedded WebApplicationContext
+2021-04-20 09:45:25 INFO  Root WebApplicationContext: initialization completed in 1105 ms
+2021-04-20 09:45:25 INFO  HikariPool-4 - Starting...
+2021-04-20 09:45:26 INFO  HikariPool-4 - Start completed.
+2021-04-20 09:45:26 INFO  HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2021-04-20 09:45:27 INFO  HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-20 09:45:27 INFO  Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-20 09:45:27 INFO  LiveReload server is running on port 35729
+2021-04-20 09:45:28 INFO  Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-20 09:45:28 INFO  Starting ProtocolHandler ["http-nio-8080"]
+2021-04-20 09:45:28 INFO  Tomcat started on port(s): 8080 (http) with context path ''
+2021-04-20 09:45:28 INFO  Context refreshed
+2021-04-20 09:45:28 INFO  Found 1 custom documentation plugin(s)
+2021-04-20 09:45:28 INFO  Scanning for api listing references
+2021-04-20 09:45:29 INFO  Generating unique operation named: findAllPostUsingGET_1
+2021-04-20 09:45:29 INFO  Generating unique operation named: findAllUserIdUsingGET_1
+2021-04-20 09:45:29 INFO  Generating unique operation named: deleteUserUsingDELETE_1
+2021-04-20 09:45:29 INFO  Generating unique operation named: findAllPostUsingGET_2
+2021-04-20 09:45:29 INFO  Generating unique operation named: deleteCommentUsingDELETE_1
+2021-04-20 09:45:29 INFO  Generating unique operation named: viewAllCommentsUsingGET_1
+2021-04-20 09:45:29 INFO  Generating unique operation named: deletePostUsingDELETE_1
+2021-04-20 09:45:29 INFO  Started SocialMediaApplication in 5.257 seconds (JVM running for 510.538)
+2021-04-20 09:45:29 INFO  Condition evaluation unchanged
+2021-04-20 09:45:39 INFO  Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-20 09:45:39 INFO  Initializing Servlet 'dispatcherServlet'
+2021-04-20 09:45:39 INFO  Completed initialization in 14 ms
+2021-04-20 09:48:15 INFO  To view all the comments for user id 9
+2021-04-20 09:48:15 INFO  comments for user id 9 is present[Comment [comment_id=1, comment_content=informative, comment_likes=5, commentedOn=2021-04-04, post=Post [post_id=18, post_content=https://www.youtube.com/watch?v=jfKhh4dINMA, post_likes=40, postedOn=2021-03-25, title=Servlets, userProfile=UserProfile [userprofile_id=10, about=Employee, gender=Male, createdOn=2021-01-07, profilePicUrl=harshal123, languages=.net]], userProfile=UserProfile [userprofile_id=9, about=Student, gender=Female, createdOn=2021-03-04, profilePicUrl=gayatri123, languages=java]], Comment [comment_id=4, comment_content=very informative, comment_likes=4, commentedOn=2021-04-19, post=Post [post_id=18, post_content=https://www.youtube.com/watch?v=jfKhh4dINMA, post_likes=40, postedOn=2021-03-25, title=Servlets, userProfile=UserProfile [userprofile_id=10, about=Employee, gender=Male, createdOn=2021-01-07, profilePicUrl=harshal123, languages=.net]], userProfile=UserProfile [userprofile_id=9, about=Student, gender=Female, createdOn=2021-03-04, profilePicUrl=gayatri123, languages=java]]]
+2021-04-20 09:48:22 INFO  To view all the comments for user id 90
+2021-04-20 09:50:25 INFO  Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-20 09:50:25 INFO  Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-20 09:50:25 INFO  HikariPool-4 - Shutdown initiated...
+2021-04-20 09:50:25 INFO  HikariPool-4 - Shutdown completed.
+2021-04-20 09:50:25 INFO  Starting SocialMediaApplication using Java 15.0.2 on LIN20004802 with PID 13700 (C:\Users\VSUDARSH\Downloads\SocialMedia\target\classes started by vsudarsh in C:\Users\VSUDARSH\Downloads\SocialMedia)
+2021-04-20 09:50:25 INFO  No active profile set, falling back to default profiles: default
+2021-04-20 09:50:26 INFO  Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-20 09:50:26 INFO  Finished Spring Data repository scanning in 61 ms. Found 9 JPA repository interfaces.
+2021-04-20 09:50:26 INFO  Tomcat initialized with port(s): 8080 (http)
+2021-04-20 09:50:26 INFO  Initializing ProtocolHandler ["http-nio-8080"]
+2021-04-20 09:50:26 INFO  Starting service [Tomcat]
+2021-04-20 09:50:26 INFO  Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-04-20 09:50:26 INFO  Initializing Spring embedded WebApplicationContext
+2021-04-20 09:50:26 INFO  Root WebApplicationContext: initialization completed in 1089 ms
+2021-04-20 09:50:26 INFO  HikariPool-5 - Starting...
+2021-04-20 09:50:27 INFO  HikariPool-5 - Start completed.
+2021-04-20 09:50:27 INFO  HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2021-04-20 09:50:28 INFO  HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-20 09:50:28 INFO  Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-20 09:50:28 INFO  LiveReload server is running on port 35729
+2021-04-20 09:50:29 INFO  Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-20 09:50:29 INFO  Starting ProtocolHandler ["http-nio-8080"]
+2021-04-20 09:50:29 INFO  Tomcat started on port(s): 8080 (http) with context path ''
+2021-04-20 09:50:29 INFO  Context refreshed
+2021-04-20 09:50:29 INFO  Found 1 custom documentation plugin(s)
+2021-04-20 09:50:29 INFO  Scanning for api listing references
+2021-04-20 09:50:29 INFO  Generating unique operation named: findAllPostUsingGET_1
+2021-04-20 09:50:29 INFO  Generating unique operation named: findAllUserIdUsingGET_1
+2021-04-20 09:50:29 INFO  Generating unique operation named: deleteUserUsingDELETE_1
+2021-04-20 09:50:29 INFO  Generating unique operation named: findAllPostUsingGET_2
+2021-04-20 09:50:29 INFO  Generating unique operation named: deleteCommentUsingDELETE_1
+2021-04-20 09:50:29 INFO  Generating unique operation named: viewAllCommentsUsingGET_1
+2021-04-20 09:50:30 INFO  Generating unique operation named: deletePostUsingDELETE_1
+2021-04-20 09:50:30 INFO  Started SocialMediaApplication in 4.739 seconds (JVM running for 811.053)
+2021-04-20 09:50:30 INFO  Condition evaluation unchanged
+2021-04-20 09:51:06 INFO  Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-20 09:51:06 INFO  Initializing Servlet 'dispatcherServlet'
+2021-04-20 09:51:06 INFO  Completed initialization in 6 ms
+2021-04-20 10:11:01 INFO  Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-20 10:11:01 INFO  Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-20 10:11:01 INFO  HikariPool-5 - Shutdown initiated...
+2021-04-20 10:11:01 INFO  HikariPool-5 - Shutdown completed.
+2021-04-20 10:11:01 INFO  Starting SocialMediaApplication using Java 15.0.2 on LIN20004802 with PID 13700 (C:\Users\VSUDARSH\Downloads\SocialMedia\target\classes started by vsudarsh in C:\Users\VSUDARSH\Downloads\SocialMedia)
+2021-04-20 10:11:01 INFO  No active profile set, falling back to default profiles: default
+2021-04-20 10:11:02 INFO  Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-20 10:11:02 INFO  Finished Spring Data repository scanning in 38 ms. Found 9 JPA repository interfaces.
+2021-04-20 10:11:02 INFO  Tomcat initialized with port(s): 8080 (http)
+2021-04-20 10:11:02 INFO  Initializing ProtocolHandler ["http-nio-8080"]
+2021-04-20 10:11:02 INFO  Starting service [Tomcat]
+2021-04-20 10:11:02 INFO  Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-04-20 10:11:02 INFO  Initializing Spring embedded WebApplicationContext
+2021-04-20 10:11:02 INFO  Root WebApplicationContext: initialization completed in 637 ms
+2021-04-20 10:11:02 INFO  HikariPool-6 - Starting...
+2021-04-20 10:11:02 INFO  HikariPool-6 - Start completed.
+2021-04-20 10:11:02 INFO  HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2021-04-20 10:11:03 INFO  HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-20 10:11:03 INFO  Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-20 10:11:03 INFO  LiveReload server is running on port 35729
+2021-04-20 10:11:03 INFO  Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-20 10:11:03 INFO  Starting ProtocolHandler ["http-nio-8080"]
+2021-04-20 10:11:03 INFO  Tomcat started on port(s): 8080 (http) with context path ''
+2021-04-20 10:11:03 INFO  Context refreshed
+2021-04-20 10:11:03 INFO  Found 1 custom documentation plugin(s)
+2021-04-20 10:11:04 INFO  Scanning for api listing references
+2021-04-20 10:11:04 INFO  Generating unique operation named: findAllPostUsingGET_1
+2021-04-20 10:11:04 INFO  Generating unique operation named: findAllUserIdUsingGET_1
+2021-04-20 10:11:04 INFO  Generating unique operation named: deleteUserUsingDELETE_1
+2021-04-20 10:11:04 INFO  Generating unique operation named: findAllPostUsingGET_2
+2021-04-20 10:11:04 INFO  Generating unique operation named: deleteCommentUsingDELETE_1
+2021-04-20 10:11:04 INFO  Generating unique operation named: viewAllCommentsUsingGET_1
+2021-04-20 10:11:04 INFO  Generating unique operation named: deletePostUsingDELETE_1
+2021-04-20 10:11:04 INFO  Started SocialMediaApplication in 2.716 seconds (JVM running for 2045.264)
+2021-04-20 10:11:04 INFO  Condition evaluation unchanged
+2021-04-20 10:15:26 INFO  Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-20 10:15:26 INFO  Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-20 10:15:26 INFO  HikariPool-6 - Shutdown initiated...
+2021-04-20 10:15:26 INFO  HikariPool-6 - Shutdown completed.
+2021-04-20 10:15:26 INFO  Starting SocialMediaApplication using Java 15.0.2 on LIN20004802 with PID 13700 (C:\Users\VSUDARSH\Downloads\SocialMedia\target\classes started by vsudarsh in C:\Users\VSUDARSH\Downloads\SocialMedia)
+2021-04-20 10:15:26 INFO  No active profile set, falling back to default profiles: default
+2021-04-20 10:15:27 INFO  Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-20 10:15:27 INFO  Finished Spring Data repository scanning in 37 ms. Found 9 JPA repository interfaces.
+2021-04-20 10:15:27 INFO  Tomcat initialized with port(s): 8080 (http)
+2021-04-20 10:15:27 INFO  Initializing ProtocolHandler ["http-nio-8080"]
+2021-04-20 10:15:27 INFO  Starting service [Tomcat]
+2021-04-20 10:15:27 INFO  Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-04-20 10:15:27 INFO  Initializing Spring embedded WebApplicationContext
+2021-04-20 10:15:27 INFO  Root WebApplicationContext: initialization completed in 665 ms
+2021-04-20 10:15:27 INFO  HikariPool-7 - Starting...
+2021-04-20 10:15:27 INFO  HikariPool-7 - Start completed.
+2021-04-20 10:15:27 INFO  HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2021-04-20 10:15:28 INFO  HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-20 10:15:28 INFO  Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-20 10:15:28 INFO  LiveReload server is running on port 35729
+2021-04-20 10:15:29 INFO  Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-20 10:15:29 INFO  Starting ProtocolHandler ["http-nio-8080"]
+2021-04-20 10:15:29 INFO  Tomcat started on port(s): 8080 (http) with context path ''
+2021-04-20 10:15:29 INFO  Context refreshed
+2021-04-20 10:15:29 INFO  Found 1 custom documentation plugin(s)
+2021-04-20 10:15:29 INFO  Scanning for api listing references
+2021-04-20 10:15:29 INFO  Generating unique operation named: findAllPostUsingGET_1
+2021-04-20 10:15:29 INFO  Generating unique operation named: findAllUserIdUsingGET_1
+2021-04-20 10:15:29 INFO  Generating unique operation named: deleteUserUsingDELETE_1
+2021-04-20 10:15:29 INFO  Generating unique operation named: findAllPostUsingGET_2
+2021-04-20 10:15:29 INFO  Generating unique operation named: deleteCommentUsingDELETE_1
+2021-04-20 10:15:29 INFO  Generating unique operation named: viewAllCommentsUsingGET_1
+2021-04-20 10:15:29 INFO  Generating unique operation named: deletePostUsingDELETE_1
+2021-04-20 10:15:29 INFO  Started SocialMediaApplication in 3.114 seconds (JVM running for 2310.682)
+2021-04-20 10:15:29 INFO  Condition evaluation unchanged
+2021-04-20 10:16:52 INFO  Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-20 10:16:52 INFO  Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-20 10:16:52 INFO  HikariPool-7 - Shutdown initiated...
+2021-04-20 10:16:52 INFO  HikariPool-7 - Shutdown completed.
+2021-04-20 10:16:52 INFO  Starting SocialMediaApplication using Java 15.0.2 on LIN20004802 with PID 13700 (C:\Users\VSUDARSH\Downloads\SocialMedia\target\classes started by vsudarsh in C:\Users\VSUDARSH\Downloads\SocialMedia)
+2021-04-20 10:16:52 INFO  No active profile set, falling back to default profiles: default
+2021-04-20 10:16:53 INFO  Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-20 10:16:53 INFO  Finished Spring Data repository scanning in 40 ms. Found 9 JPA repository interfaces.
+2021-04-20 10:16:53 INFO  Tomcat initialized with port(s): 8080 (http)
+2021-04-20 10:16:53 INFO  Initializing ProtocolHandler ["http-nio-8080"]
+2021-04-20 10:16:53 INFO  Starting service [Tomcat]
+2021-04-20 10:16:53 INFO  Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-04-20 10:16:53 INFO  Initializing Spring embedded WebApplicationContext
+2021-04-20 10:16:53 INFO  Root WebApplicationContext: initialization completed in 651 ms
+2021-04-20 10:16:53 INFO  HikariPool-8 - Starting...
+2021-04-20 10:16:53 INFO  HikariPool-8 - Start completed.
+2021-04-20 10:16:53 INFO  HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2021-04-20 10:16:54 INFO  HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-20 10:16:54 INFO  Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-20 10:16:54 INFO  LiveReload server is running on port 35729
+2021-04-20 10:16:54 INFO  Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-20 10:16:54 INFO  Starting ProtocolHandler ["http-nio-8080"]
+2021-04-20 10:16:54 INFO  Tomcat started on port(s): 8080 (http) with context path ''
+2021-04-20 10:16:54 INFO  Context refreshed
+2021-04-20 10:16:54 INFO  Found 1 custom documentation plugin(s)
+2021-04-20 10:16:54 INFO  Scanning for api listing references
+2021-04-20 10:16:55 INFO  Generating unique operation named: findAllPostUsingGET_1
+2021-04-20 10:16:55 INFO  Generating unique operation named: findAllUserIdUsingGET_1
+2021-04-20 10:16:55 INFO  Generating unique operation named: deleteUserUsingDELETE_1
+2021-04-20 10:16:55 INFO  Generating unique operation named: findAllPostUsingGET_2
+2021-04-20 10:16:55 INFO  Generating unique operation named: deleteCommentUsingDELETE_1
+2021-04-20 10:16:55 INFO  Generating unique operation named: viewAllCommentsUsingGET_1
+2021-04-20 10:16:55 INFO  Generating unique operation named: deletePostUsingDELETE_1
+2021-04-20 10:16:55 INFO  Started SocialMediaApplication in 2.897 seconds (JVM running for 2396.239)
+2021-04-20 10:16:55 INFO  Condition evaluation unchanged
+2021-04-20 10:17:28 INFO  Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-20 10:17:28 INFO  Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-20 10:17:28 INFO  HikariPool-8 - Shutdown initiated...
+2021-04-20 10:17:28 INFO  HikariPool-8 - Shutdown completed.
+2021-04-20 10:17:28 INFO  Starting SocialMediaApplication using Java 15.0.2 on LIN20004802 with PID 13700 (C:\Users\VSUDARSH\Downloads\SocialMedia\target\classes started by vsudarsh in C:\Users\VSUDARSH\Downloads\SocialMedia)
+2021-04-20 10:17:28 INFO  No active profile set, falling back to default profiles: default
+2021-04-20 10:17:28 INFO  Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-20 10:17:28 INFO  Finished Spring Data repository scanning in 36 ms. Found 9 JPA repository interfaces.
+2021-04-20 10:17:29 INFO  Tomcat initialized with port(s): 8080 (http)
+2021-04-20 10:17:29 INFO  Initializing ProtocolHandler ["http-nio-8080"]
+2021-04-20 10:17:29 INFO  Starting service [Tomcat]
+2021-04-20 10:17:29 INFO  Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-04-20 10:17:29 INFO  Initializing Spring embedded WebApplicationContext
+2021-04-20 10:17:29 INFO  Root WebApplicationContext: initialization completed in 578 ms
+2021-04-20 10:17:29 INFO  HikariPool-9 - Starting...
+2021-04-20 10:17:29 INFO  HikariPool-9 - Start completed.
+2021-04-20 10:17:29 INFO  HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2021-04-20 10:17:29 INFO  HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-20 10:17:29 INFO  Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-20 10:17:29 INFO  LiveReload server is running on port 35729
+2021-04-20 10:17:30 INFO  Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-20 10:17:30 INFO  Starting ProtocolHandler ["http-nio-8080"]
+2021-04-20 10:17:30 INFO  Tomcat started on port(s): 8080 (http) with context path ''
+2021-04-20 10:17:30 INFO  Context refreshed
+2021-04-20 10:17:30 INFO  Found 1 custom documentation plugin(s)
+2021-04-20 10:17:30 INFO  Scanning for api listing references
+2021-04-20 10:17:30 INFO  Generating unique operation named: findAllPostUsingGET_1
+2021-04-20 10:17:30 INFO  Generating unique operation named: findAllUserIdUsingGET_1
+2021-04-20 10:17:30 INFO  Generating unique operation named: deleteUserUsingDELETE_1
+2021-04-20 10:17:30 INFO  Generating unique operation named: findAllPostUsingGET_2
+2021-04-20 10:17:30 INFO  Generating unique operation named: deleteCommentUsingDELETE_1
+2021-04-20 10:17:30 INFO  Generating unique operation named: viewAllCommentsUsingGET_1
+2021-04-20 10:17:30 INFO  Generating unique operation named: deletePostUsingDELETE_1
+2021-04-20 10:17:31 INFO  Started SocialMediaApplication in 2.597 seconds (JVM running for 2431.816)
+2021-04-20 10:17:31 INFO  Condition evaluation unchanged
+2021-04-20 10:17:40 INFO  Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-20 10:17:40 INFO  Initializing Servlet 'dispatcherServlet'
+2021-04-20 10:17:40 INFO  Completed initialization in 2 ms
+2021-04-20 10:22:59 INFO  Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-20 10:22:59 INFO  Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-20 10:22:59 INFO  HikariPool-9 - Shutdown initiated...
+2021-04-20 10:22:59 INFO  HikariPool-9 - Shutdown completed.
+2021-04-20 10:22:59 INFO  Starting SocialMediaApplication using Java 15.0.2 on LIN20004802 with PID 13700 (C:\Users\VSUDARSH\Downloads\SocialMedia\target\classes started by vsudarsh in C:\Users\VSUDARSH\Downloads\SocialMedia)
+2021-04-20 10:22:59 INFO  No active profile set, falling back to default profiles: default
+2021-04-20 10:23:00 INFO  Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-20 10:23:00 INFO  Finished Spring Data repository scanning in 38 ms. Found 9 JPA repository interfaces.
+2021-04-20 10:23:00 INFO  Tomcat initialized with port(s): 8080 (http)
+2021-04-20 10:23:00 INFO  Initializing ProtocolHandler ["http-nio-8080"]
+2021-04-20 10:23:00 INFO  Starting service [Tomcat]
+2021-04-20 10:23:00 INFO  Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-04-20 10:23:00 INFO  Initializing Spring embedded WebApplicationContext
+2021-04-20 10:23:00 INFO  Root WebApplicationContext: initialization completed in 528 ms
+2021-04-20 10:23:00 INFO  HikariPool-10 - Starting...
+2021-04-20 10:23:00 INFO  HikariPool-10 - Start completed.
+2021-04-20 10:23:00 INFO  HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2021-04-20 10:23:01 INFO  HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-20 10:23:01 INFO  Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-20 10:23:01 INFO  LiveReload server is running on port 35729
+2021-04-20 10:23:01 INFO  Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-20 10:23:01 INFO  Starting ProtocolHandler ["http-nio-8080"]
+2021-04-20 10:23:01 INFO  Tomcat started on port(s): 8080 (http) with context path ''
+2021-04-20 10:23:01 INFO  Context refreshed
+2021-04-20 10:23:01 INFO  Found 1 custom documentation plugin(s)
+2021-04-20 10:23:01 INFO  Scanning for api listing references
+2021-04-20 10:23:01 INFO  Generating unique operation named: findAllPostUsingGET_1
+2021-04-20 10:23:01 INFO  Generating unique operation named: findAllUserIdUsingGET_1
+2021-04-20 10:23:01 INFO  Generating unique operation named: deleteUserUsingDELETE_1
+2021-04-20 10:23:01 INFO  Generating unique operation named: findAllPostUsingGET_2
+2021-04-20 10:23:01 INFO  Generating unique operation named: deleteCommentUsingDELETE_1
+2021-04-20 10:23:01 INFO  Generating unique operation named: viewAllCommentsUsingGET_1
+2021-04-20 10:23:01 INFO  Generating unique operation named: deletePostUsingDELETE_1
+2021-04-20 10:23:02 INFO  Started SocialMediaApplication in 2.398 seconds (JVM running for 2762.781)
+2021-04-20 10:23:02 INFO  Condition evaluation unchanged
+2021-04-20 10:23:54 INFO  Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-20 10:23:54 INFO  Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-20 10:23:54 INFO  HikariPool-10 - Shutdown initiated...
+2021-04-20 10:23:54 INFO  HikariPool-10 - Shutdown completed.
+2021-04-20 10:23:54 INFO  Starting SocialMediaApplication using Java 15.0.2 on LIN20004802 with PID 13700 (C:\Users\VSUDARSH\Downloads\SocialMedia\target\classes started by vsudarsh in C:\Users\VSUDARSH\Downloads\SocialMedia)
+2021-04-20 10:23:54 INFO  No active profile set, falling back to default profiles: default
+2021-04-20 10:23:55 INFO  Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-20 10:23:55 INFO  Finished Spring Data repository scanning in 35 ms. Found 9 JPA repository interfaces.
+2021-04-20 10:23:55 INFO  Tomcat initialized with port(s): 8080 (http)
+2021-04-20 10:23:55 INFO  Initializing ProtocolHandler ["http-nio-8080"]
+2021-04-20 10:23:55 INFO  Starting service [Tomcat]
+2021-04-20 10:23:55 INFO  Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-04-20 10:23:55 INFO  Initializing Spring embedded WebApplicationContext
+2021-04-20 10:23:55 INFO  Root WebApplicationContext: initialization completed in 548 ms
+2021-04-20 10:23:55 INFO  HikariPool-11 - Starting...
+2021-04-20 10:23:55 INFO  HikariPool-11 - Start completed.
+2021-04-20 10:23:55 INFO  HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2021-04-20 10:23:56 INFO  HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-20 10:23:56 INFO  Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-20 10:23:56 INFO  LiveReload server is running on port 35729
+2021-04-20 10:23:56 INFO  Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-20 10:23:56 INFO  Starting ProtocolHandler ["http-nio-8080"]
+2021-04-20 10:23:56 INFO  Tomcat started on port(s): 8080 (http) with context path ''
+2021-04-20 10:23:56 INFO  Context refreshed
+2021-04-20 10:23:56 INFO  Found 1 custom documentation plugin(s)
+2021-04-20 10:23:56 INFO  Scanning for api listing references
+2021-04-20 10:23:56 INFO  Generating unique operation named: findAllPostUsingGET_1
+2021-04-20 10:23:56 INFO  Generating unique operation named: findAllUserIdUsingGET_1
+2021-04-20 10:23:56 INFO  Generating unique operation named: deleteUserUsingDELETE_1
+2021-04-20 10:23:56 INFO  Generating unique operation named: findAllPostUsingGET_2
+2021-04-20 10:23:56 INFO  Generating unique operation named: deleteCommentUsingDELETE_1
+2021-04-20 10:23:56 INFO  Generating unique operation named: viewAllCommentsUsingGET_1
+2021-04-20 10:23:56 INFO  Generating unique operation named: deletePostUsingDELETE_1
+2021-04-20 10:23:57 INFO  Started SocialMediaApplication in 2.322 seconds (JVM running for 2817.836)
+2021-04-20 10:23:57 INFO  Condition evaluation unchanged
+2021-04-20 10:24:09 INFO  Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-20 10:24:09 INFO  Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-20 10:24:09 INFO  HikariPool-11 - Shutdown initiated...
+2021-04-20 10:24:09 INFO  HikariPool-11 - Shutdown completed.
+2021-04-20 10:24:09 INFO  Starting SocialMediaApplication using Java 15.0.2 on LIN20004802 with PID 13700 (C:\Users\VSUDARSH\Downloads\SocialMedia\target\classes started by vsudarsh in C:\Users\VSUDARSH\Downloads\SocialMedia)
+2021-04-20 10:24:09 INFO  No active profile set, falling back to default profiles: default
+2021-04-20 10:24:09 INFO  Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-20 10:24:09 INFO  Finished Spring Data repository scanning in 28 ms. Found 9 JPA repository interfaces.
+2021-04-20 10:24:10 INFO  Tomcat initialized with port(s): 8080 (http)
+2021-04-20 10:24:10 INFO  Initializing ProtocolHandler ["http-nio-8080"]
+2021-04-20 10:24:10 INFO  Starting service [Tomcat]
+2021-04-20 10:24:10 INFO  Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-04-20 10:24:10 INFO  Initializing Spring embedded WebApplicationContext
+2021-04-20 10:24:10 INFO  Root WebApplicationContext: initialization completed in 502 ms
+2021-04-20 10:24:10 INFO  HikariPool-12 - Starting...
+2021-04-20 10:24:10 INFO  HikariPool-12 - Start completed.
+2021-04-20 10:24:10 INFO  HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2021-04-20 10:24:10 INFO  HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-20 10:24:10 INFO  Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-20 10:24:10 INFO  LiveReload server is running on port 35729
+2021-04-20 10:24:11 INFO  Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-20 10:24:11 INFO  Starting ProtocolHandler ["http-nio-8080"]
+2021-04-20 10:24:11 INFO  Tomcat started on port(s): 8080 (http) with context path ''
+2021-04-20 10:24:11 INFO  Context refreshed
+2021-04-20 10:24:11 INFO  Found 1 custom documentation plugin(s)
+2021-04-20 10:24:11 INFO  Scanning for api listing references
+2021-04-20 10:24:11 INFO  Generating unique operation named: findAllPostUsingGET_1
+2021-04-20 10:24:11 INFO  Generating unique operation named: findAllUserIdUsingGET_1
+2021-04-20 10:24:11 INFO  Generating unique operation named: deleteUserUsingDELETE_1
+2021-04-20 10:24:11 INFO  Generating unique operation named: findAllPostUsingGET_2
+2021-04-20 10:24:11 INFO  Generating unique operation named: deleteCommentUsingDELETE_1
+2021-04-20 10:24:11 INFO  Generating unique operation named: viewAllCommentsUsingGET_1
+2021-04-20 10:24:11 INFO  Generating unique operation named: deletePostUsingDELETE_1
+2021-04-20 10:24:11 INFO  Started SocialMediaApplication in 2.296 seconds (JVM running for 2832.61)
+2021-04-20 10:24:11 INFO  Condition evaluation unchanged
+2021-04-20 10:24:15 INFO  Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-20 10:24:15 INFO  Initializing Servlet 'dispatcherServlet'
+2021-04-20 10:24:15 INFO  Completed initialization in 2 ms
+2021-04-20 10:25:37 INFO  Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-20 10:25:37 INFO  Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-20 10:25:37 INFO  HikariPool-12 - Shutdown initiated...
+2021-04-20 10:25:37 INFO  HikariPool-12 - Shutdown completed.
+2021-04-20 10:25:37 INFO  Starting SocialMediaApplication using Java 15.0.2 on LIN20004802 with PID 13700 (C:\Users\VSUDARSH\Downloads\SocialMedia\target\classes started by vsudarsh in C:\Users\VSUDARSH\Downloads\SocialMedia)
+2021-04-20 10:25:37 INFO  No active profile set, falling back to default profiles: default
+2021-04-20 10:25:38 INFO  Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-20 10:25:38 INFO  Finished Spring Data repository scanning in 30 ms. Found 9 JPA repository interfaces.
+2021-04-20 10:25:38 INFO  Tomcat initialized with port(s): 8080 (http)
+2021-04-20 10:25:38 INFO  Initializing ProtocolHandler ["http-nio-8080"]
+2021-04-20 10:25:38 INFO  Starting service [Tomcat]
+2021-04-20 10:25:38 INFO  Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-04-20 10:25:38 INFO  Initializing Spring embedded WebApplicationContext
+2021-04-20 10:25:38 INFO  Root WebApplicationContext: initialization completed in 475 ms
+2021-04-20 10:25:38 INFO  HikariPool-13 - Starting...
+2021-04-20 10:25:38 INFO  HikariPool-13 - Start completed.
+2021-04-20 10:25:38 INFO  HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2021-04-20 10:25:38 INFO  HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-20 10:25:38 INFO  Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-20 10:25:38 INFO  LiveReload server is running on port 35729
+2021-04-20 10:25:39 INFO  Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-20 10:25:39 INFO  Starting ProtocolHandler ["http-nio-8080"]
+2021-04-20 10:25:39 INFO  Tomcat started on port(s): 8080 (http) with context path ''
+2021-04-20 10:25:39 INFO  Context refreshed
+2021-04-20 10:25:39 INFO  Found 1 custom documentation plugin(s)
+2021-04-20 10:25:39 INFO  Scanning for api listing references
+2021-04-20 10:25:39 INFO  Generating unique operation named: findAllPostUsingGET_1
+2021-04-20 10:25:39 INFO  Generating unique operation named: findAllUserIdUsingGET_1
+2021-04-20 10:25:39 INFO  Generating unique operation named: deleteUserUsingDELETE_1
+2021-04-20 10:25:39 INFO  Generating unique operation named: findAllPostUsingGET_2
+2021-04-20 10:25:39 INFO  Generating unique operation named: deleteCommentUsingDELETE_1
+2021-04-20 10:25:39 INFO  Generating unique operation named: viewAllCommentsUsingGET_1
+2021-04-20 10:25:39 INFO  Generating unique operation named: deletePostUsingDELETE_1
+2021-04-20 10:25:39 INFO  Started SocialMediaApplication in 2.126 seconds (JVM running for 2920.648)
+2021-04-20 10:25:39 INFO  Condition evaluation unchanged
+2021-04-20 10:26:06 INFO  Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-20 10:26:06 INFO  Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-20 10:26:06 INFO  HikariPool-13 - Shutdown initiated...
+2021-04-20 10:26:06 INFO  HikariPool-13 - Shutdown completed.
+2021-04-20 10:26:06 INFO  Starting SocialMediaApplication using Java 15.0.2 on LIN20004802 with PID 13700 (C:\Users\VSUDARSH\Downloads\SocialMedia\target\classes started by vsudarsh in C:\Users\VSUDARSH\Downloads\SocialMedia)
+2021-04-20 10:26:06 INFO  No active profile set, falling back to default profiles: default
+2021-04-20 10:26:07 INFO  Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-20 10:26:07 INFO  Finished Spring Data repository scanning in 33 ms. Found 9 JPA repository interfaces.
+2021-04-20 10:26:07 INFO  Tomcat initialized with port(s): 8080 (http)
+2021-04-20 10:26:07 INFO  Initializing ProtocolHandler ["http-nio-8080"]
+2021-04-20 10:26:07 INFO  Starting service [Tomcat]
+2021-04-20 10:26:07 INFO  Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-04-20 10:26:07 INFO  Initializing Spring embedded WebApplicationContext
+2021-04-20 10:26:07 INFO  Root WebApplicationContext: initialization completed in 518 ms
+2021-04-20 10:26:07 INFO  HikariPool-14 - Starting...
+2021-04-20 10:26:07 INFO  HikariPool-14 - Start completed.
+2021-04-20 10:26:07 INFO  HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2021-04-20 10:26:08 INFO  HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-20 10:26:08 INFO  Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-20 10:26:08 INFO  LiveReload server is running on port 35729
+2021-04-20 10:26:08 INFO  Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-20 10:26:08 INFO  Starting ProtocolHandler ["http-nio-8080"]
+2021-04-20 10:26:08 INFO  Tomcat started on port(s): 8080 (http) with context path ''
+2021-04-20 10:26:08 INFO  Context refreshed
+2021-04-20 10:26:08 INFO  Found 1 custom documentation plugin(s)
+2021-04-20 10:26:08 INFO  Scanning for api listing references
+2021-04-20 10:26:09 INFO  Generating unique operation named: findAllPostUsingGET_1
+2021-04-20 10:26:09 INFO  Generating unique operation named: findAllUserIdUsingGET_1
+2021-04-20 10:26:09 INFO  Generating unique operation named: deleteUserUsingDELETE_1
+2021-04-20 10:26:09 INFO  Generating unique operation named: findAllPostUsingGET_2
+2021-04-20 10:26:09 INFO  Generating unique operation named: deleteCommentUsingDELETE_1
+2021-04-20 10:26:09 INFO  Generating unique operation named: viewAllCommentsUsingGET_1
+2021-04-20 10:26:09 INFO  Generating unique operation named: deletePostUsingDELETE_1
+2021-04-20 10:26:09 INFO  Started SocialMediaApplication in 2.469 seconds (JVM running for 2950.151)
+2021-04-20 10:26:09 INFO  Condition evaluation unchanged
+2021-04-20 10:34:40 INFO  Application shutdown requested.
+2021-04-20 10:34:40 INFO  Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-20 10:34:40 INFO  Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-20 10:34:40 INFO  HikariPool-14 - Shutdown initiated...
+2021-04-20 10:34:40 INFO  HikariPool-14 - Shutdown completed.
+2021-04-20 11:02:49 INFO  HV000001: Hibernate Validator 6.1.7.Final
+2021-04-20 11:02:49 INFO  Starting SocialMediaApplication using Java 15.0.2 on LIN20004802 with PID 5416 (C:\Users\VSUDARSH\Downloads\SocialMedia\target\classes started by vsudarsh in C:\Users\VSUDARSH\Downloads\SocialMedia)
+2021-04-20 11:02:49 INFO  No active profile set, falling back to default profiles: default
+2021-04-20 11:02:49 INFO  Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-04-20 11:02:49 INFO  For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-04-20 11:02:50 INFO  Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-20 11:02:50 INFO  Finished Spring Data repository scanning in 84 ms. Found 9 JPA repository interfaces.
+2021-04-20 11:02:51 INFO  Tomcat initialized with port(s): 8080 (http)
+2021-04-20 11:02:51 INFO  Initializing ProtocolHandler ["http-nio-8080"]
+2021-04-20 11:02:51 INFO  Starting service [Tomcat]
+2021-04-20 11:02:51 INFO  Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-04-20 11:02:51 INFO  Initializing Spring embedded WebApplicationContext
+2021-04-20 11:02:51 INFO  Root WebApplicationContext: initialization completed in 2168 ms
+2021-04-20 11:02:51 INFO  HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-20 11:02:52 INFO  HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-20 11:02:52 INFO  HikariPool-1 - Starting...
+2021-04-20 11:02:52 INFO  HikariPool-1 - Start completed.
+2021-04-20 11:02:52 INFO  HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2021-04-20 11:02:54 INFO  HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-20 11:02:54 INFO  Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-20 11:02:54 INFO  LiveReload server is running on port 35729
+2021-04-20 11:02:55 INFO  Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-20 11:02:55 INFO  Starting ProtocolHandler ["http-nio-8080"]
+2021-04-20 11:02:56 INFO  Tomcat started on port(s): 8080 (http) with context path ''
+2021-04-20 11:02:56 INFO  Context refreshed
+2021-04-20 11:02:56 INFO  Found 1 custom documentation plugin(s)
+2021-04-20 11:02:56 INFO  Scanning for api listing references
+2021-04-20 11:02:56 INFO  Generating unique operation named: findAllPostUsingGET_1
+2021-04-20 11:02:56 INFO  Generating unique operation named: findAllUserIdUsingGET_1
+2021-04-20 11:02:56 INFO  Generating unique operation named: deleteUserUsingDELETE_1
+2021-04-20 11:02:56 INFO  Generating unique operation named: findAllPostUsingGET_2
+2021-04-20 11:02:56 INFO  Generating unique operation named: deleteCommentUsingDELETE_1
+2021-04-20 11:02:56 INFO  Generating unique operation named: viewAllCommentsUsingGET_1
+2021-04-20 11:02:56 INFO  Generating unique operation named: deletePostUsingDELETE_1
+2021-04-20 11:02:56 INFO  Started SocialMediaApplication in 7.755 seconds (JVM running for 9.128)
+2021-04-20 11:03:10 INFO  Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-20 11:03:10 INFO  Initializing Servlet 'dispatcherServlet'
+2021-04-20 11:03:10 INFO  Completed initialization in 2 ms
+2021-04-20 11:05:12 INFO  Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-20 11:05:12 INFO  Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-20 11:05:12 INFO  HikariPool-1 - Shutdown initiated...
+2021-04-20 11:05:12 INFO  HikariPool-1 - Shutdown completed.
+2021-04-20 11:05:12 INFO  Starting SocialMediaApplication using Java 15.0.2 on LIN20004802 with PID 5416 (C:\Users\VSUDARSH\Downloads\SocialMedia\target\classes started by vsudarsh in C:\Users\VSUDARSH\Downloads\SocialMedia)
+2021-04-20 11:05:12 INFO  No active profile set, falling back to default profiles: default
+2021-04-20 11:05:13 INFO  Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-20 11:05:13 INFO  Finished Spring Data repository scanning in 74 ms. Found 9 JPA repository interfaces.
+2021-04-20 11:05:13 INFO  Tomcat initialized with port(s): 8080 (http)
+2021-04-20 11:05:13 INFO  Initializing ProtocolHandler ["http-nio-8080"]
+2021-04-20 11:05:13 INFO  Starting service [Tomcat]
+2021-04-20 11:05:13 INFO  Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-04-20 11:05:13 INFO  Initializing Spring embedded WebApplicationContext
+2021-04-20 11:05:13 INFO  Root WebApplicationContext: initialization completed in 1025 ms
+2021-04-20 11:05:13 INFO  HikariPool-2 - Starting...
+2021-04-20 11:05:13 INFO  HikariPool-2 - Start completed.
+2021-04-20 11:05:13 INFO  HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2021-04-20 11:05:14 INFO  HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-20 11:05:14 INFO  Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-20 11:05:14 INFO  LiveReload server is running on port 35729
+2021-04-20 11:05:15 INFO  Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-20 11:05:15 INFO  Starting ProtocolHandler ["http-nio-8080"]
+2021-04-20 11:05:15 INFO  Tomcat started on port(s): 8080 (http) with context path ''
+2021-04-20 11:05:15 INFO  Context refreshed
+2021-04-20 11:05:15 INFO  Found 1 custom documentation plugin(s)
+2021-04-20 11:05:15 INFO  Scanning for api listing references
+2021-04-20 11:05:15 INFO  Generating unique operation named: findAllPostUsingGET_1
+2021-04-20 11:05:15 INFO  Generating unique operation named: findAllUserIdUsingGET_1
+2021-04-20 11:05:15 INFO  Generating unique operation named: deleteUserUsingDELETE_1
+2021-04-20 11:05:15 INFO  Generating unique operation named: findAllPostUsingGET_2
+2021-04-20 11:05:15 INFO  Generating unique operation named: deleteCommentUsingDELETE_1
+2021-04-20 11:05:15 INFO  Generating unique operation named: viewAllCommentsUsingGET_1
+2021-04-20 11:05:15 INFO  Generating unique operation named: deletePostUsingDELETE_1
+2021-04-20 11:05:15 INFO  Started SocialMediaApplication in 3.271 seconds (JVM running for 148.045)
+2021-04-20 11:05:15 INFO  Condition evaluation unchanged
+2021-04-20 11:06:13 INFO  Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-20 11:06:13 INFO  Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-20 11:06:13 INFO  HikariPool-2 - Shutdown initiated...
+2021-04-20 11:06:13 INFO  HikariPool-2 - Shutdown completed.
+2021-04-20 11:06:13 INFO  Starting SocialMediaApplication using Java 15.0.2 on LIN20004802 with PID 5416 (C:\Users\VSUDARSH\Downloads\SocialMedia\target\classes started by vsudarsh in C:\Users\VSUDARSH\Downloads\SocialMedia)
+2021-04-20 11:06:13 INFO  No active profile set, falling back to default profiles: default
+2021-04-20 11:06:13 INFO  Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-20 11:06:13 INFO  Finished Spring Data repository scanning in 60 ms. Found 9 JPA repository interfaces.
+2021-04-20 11:06:13 INFO  Tomcat initialized with port(s): 8080 (http)
+2021-04-20 11:06:13 INFO  Initializing ProtocolHandler ["http-nio-8080"]
+2021-04-20 11:06:13 INFO  Starting service [Tomcat]
+2021-04-20 11:06:13 INFO  Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-04-20 11:06:14 INFO  Initializing Spring embedded WebApplicationContext
+2021-04-20 11:06:14 INFO  Root WebApplicationContext: initialization completed in 677 ms
+2021-04-20 11:06:14 INFO  HikariPool-3 - Starting...
+2021-04-20 11:06:14 INFO  HikariPool-3 - Start completed.
+2021-04-20 11:06:14 INFO  HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2021-04-20 11:06:15 INFO  HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-20 11:06:15 INFO  Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-20 11:06:15 INFO  LiveReload server is running on port 35729
+2021-04-20 11:06:15 INFO  Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-20 11:06:15 INFO  Starting ProtocolHandler ["http-nio-8080"]
+2021-04-20 11:06:15 INFO  Tomcat started on port(s): 8080 (http) with context path ''
+2021-04-20 11:06:15 INFO  Context refreshed
+2021-04-20 11:06:15 INFO  Found 1 custom documentation plugin(s)
+2021-04-20 11:06:15 INFO  Scanning for api listing references
+2021-04-20 11:06:16 INFO  Generating unique operation named: findAllPostUsingGET_1
+2021-04-20 11:06:16 INFO  Generating unique operation named: findAllUserIdUsingGET_1
+2021-04-20 11:06:16 INFO  Generating unique operation named: deleteUserUsingDELETE_1
+2021-04-20 11:06:16 INFO  Generating unique operation named: findAllPostUsingGET_2
+2021-04-20 11:06:16 INFO  Generating unique operation named: deleteCommentUsingDELETE_1
+2021-04-20 11:06:16 INFO  Generating unique operation named: viewAllCommentsUsingGET_1
+2021-04-20 11:06:16 INFO  Generating unique operation named: deletePostUsingDELETE_1
+2021-04-20 11:06:16 INFO  Started SocialMediaApplication in 3.046 seconds (JVM running for 208.746)
+2021-04-20 11:06:16 INFO  Condition evaluation unchanged
+2021-04-20 11:07:42 INFO  Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-20 11:07:42 INFO  Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-20 11:07:42 INFO  HikariPool-3 - Shutdown initiated...
+2021-04-20 11:07:42 INFO  HikariPool-3 - Shutdown completed.
+2021-04-20 11:07:42 INFO  Starting SocialMediaApplication using Java 15.0.2 on LIN20004802 with PID 5416 (C:\Users\VSUDARSH\Downloads\SocialMedia\target\classes started by vsudarsh in C:\Users\VSUDARSH\Downloads\SocialMedia)
+2021-04-20 11:07:42 INFO  No active profile set, falling back to default profiles: default
+2021-04-20 11:07:42 INFO  Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-20 11:07:43 INFO  Finished Spring Data repository scanning in 38 ms. Found 9 JPA repository interfaces.
+2021-04-20 11:07:43 INFO  Tomcat initialized with port(s): 8080 (http)
+2021-04-20 11:07:43 INFO  Initializing ProtocolHandler ["http-nio-8080"]
+2021-04-20 11:07:43 INFO  Starting service [Tomcat]
+2021-04-20 11:07:43 INFO  Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-04-20 11:07:43 INFO  Initializing Spring embedded WebApplicationContext
+2021-04-20 11:07:43 INFO  Root WebApplicationContext: initialization completed in 705 ms
+2021-04-20 11:07:43 INFO  HikariPool-4 - Starting...
+2021-04-20 11:07:43 INFO  HikariPool-4 - Start completed.
+2021-04-20 11:07:43 INFO  HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2021-04-20 11:07:44 INFO  HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-20 11:07:44 INFO  Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-20 11:07:44 INFO  LiveReload server is running on port 35729
+2021-04-20 11:07:44 INFO  Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-20 11:07:44 INFO  Starting ProtocolHandler ["http-nio-8080"]
+2021-04-20 11:07:44 INFO  Tomcat started on port(s): 8080 (http) with context path ''
+2021-04-20 11:07:44 INFO  Context refreshed
+2021-04-20 11:07:44 INFO  Found 1 custom documentation plugin(s)
+2021-04-20 11:07:44 INFO  Scanning for api listing references
+2021-04-20 11:07:44 INFO  Generating unique operation named: findAllPostUsingGET_1
+2021-04-20 11:07:44 INFO  Generating unique operation named: findAllUserIdUsingGET_1
+2021-04-20 11:07:44 INFO  Generating unique operation named: deleteUserUsingDELETE_1
+2021-04-20 11:07:44 INFO  Generating unique operation named: findAllPostUsingGET_2
+2021-04-20 11:07:45 INFO  Generating unique operation named: deleteCommentUsingDELETE_1
+2021-04-20 11:07:45 INFO  Generating unique operation named: viewAllCommentsUsingGET_1
+2021-04-20 11:07:45 INFO  Generating unique operation named: deletePostUsingDELETE_1
+2021-04-20 11:07:45 INFO  Started SocialMediaApplication in 2.865 seconds (JVM running for 297.69)
+2021-04-20 11:07:45 INFO  Condition evaluation unchanged
+2021-04-20 11:07:53 INFO  Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-20 11:07:53 INFO  Initializing Servlet 'dispatcherServlet'
+2021-04-20 11:07:53 INFO  Completed initialization in 6 ms
+2021-04-20 11:07:53 INFO  Friend added/found
+2021-04-20 11:13:06 INFO  To view all the comments 
+2021-04-20 11:13:13 INFO  To view all the user id's who made comments
+2021-04-20 11:13:16 INFO  To view all the comments for user id 9
+2021-04-20 11:13:16 INFO  comments for user id 9 is present[Comment [comment_id=1, comment_content=informative, comment_likes=5, commentedOn=2021-04-04, post=Post [post_id=18, post_content=https://www.youtube.com/watch?v=jfKhh4dINMA, post_likes=40, postedOn=2021-03-25, title=Servlets, userProfile=UserProfile [userprofile_id=10, about=Employee, gender=Male, createdOn=2021-01-07, profilePicUrl=harshal123, languages=.net]], userProfile=UserProfile [userprofile_id=9, about=Student, gender=Female, createdOn=2021-03-04, profilePicUrl=gayatri123, languages=java]], Comment [comment_id=4, comment_content=very informative, comment_likes=4, commentedOn=2021-04-19, post=Post [post_id=18, post_content=https://www.youtube.com/watch?v=jfKhh4dINMA, post_likes=40, postedOn=2021-03-25, title=Servlets, userProfile=UserProfile [userprofile_id=10, about=Employee, gender=Male, createdOn=2021-01-07, profilePicUrl=harshal123, languages=.net]], userProfile=UserProfile [userprofile_id=9, about=Student, gender=Female, createdOn=2021-03-04, profilePicUrl=gayatri123, languages=java]]]
+2021-04-20 11:13:20 INFO  To view all the comments for user id 11
+2021-04-20 11:13:20 INFO  comments for user id 11 is present[Comment [comment_id=3, comment_content=very good, comment_likes=4, commentedOn=2021-03-14, post=Post [post_id=20, post_content=https://www.youtube.com/watch?v=a14xfNV-UIs, post_likes=30, postedOn=2021-03-29, title=Spring, userProfile=UserProfile [userprofile_id=12, about=Employee, gender=Female, createdOn=2020-12-17, profilePicUrl=anjali123, languages=java]], userProfile=UserProfile [userprofile_id=11, about=professor, gender=Female, createdOn=2021-01-15, profilePicUrl=asmita123, languages=.net]]]
+2021-04-20 11:16:16 INFO  To view all the comments 
+2021-04-20 11:48:20 INFO  Application shutdown requested.
+2021-04-20 11:48:20 INFO  Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-20 11:48:20 INFO  Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-20 11:48:20 INFO  HikariPool-4 - Shutdown initiated...
+2021-04-20 11:48:20 INFO  HikariPool-4 - Shutdown completed.
+2021-04-20 12:06:09 INFO  HV000001: Hibernate Validator 6.1.7.Final
+2021-04-20 12:06:09 INFO  Starting SocialMediaApplication using Java 15.0.2 on LIN20004802 with PID 22292 (C:\Users\VSUDARSH\Downloads\SocialMedia\target\classes started by vsudarsh in C:\Users\VSUDARSH\Downloads\SocialMedia)
+2021-04-20 12:06:09 INFO  No active profile set, falling back to default profiles: default
+2021-04-20 12:06:09 INFO  Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-04-20 12:06:09 INFO  For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-04-20 12:06:10 INFO  Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-20 12:06:10 INFO  Finished Spring Data repository scanning in 80 ms. Found 9 JPA repository interfaces.
+2021-04-20 12:06:11 INFO  Tomcat initialized with port(s): 8080 (http)
+2021-04-20 12:06:11 INFO  Initializing ProtocolHandler ["http-nio-8080"]
+2021-04-20 12:06:11 INFO  Starting service [Tomcat]
+2021-04-20 12:06:11 INFO  Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-04-20 12:06:11 INFO  Initializing Spring embedded WebApplicationContext
+2021-04-20 12:06:11 INFO  Root WebApplicationContext: initialization completed in 2001 ms
+2021-04-20 12:06:11 INFO  HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-20 12:06:11 INFO  HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-20 12:06:11 INFO  HikariPool-1 - Starting...
+2021-04-20 12:06:12 INFO  HikariPool-1 - Start completed.
+2021-04-20 12:06:12 INFO  HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2021-04-20 12:06:13 INFO  HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-20 12:06:13 INFO  Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-20 12:06:13 INFO  LiveReload server is running on port 35729
+2021-04-20 12:06:14 INFO  Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-20 12:06:15 INFO  Starting ProtocolHandler ["http-nio-8080"]
+2021-04-20 12:06:15 INFO  Tomcat started on port(s): 8080 (http) with context path ''
+2021-04-20 12:06:15 INFO  Context refreshed
+2021-04-20 12:06:15 INFO  Found 1 custom documentation plugin(s)
+2021-04-20 12:06:15 INFO  Scanning for api listing references
+2021-04-20 12:06:15 INFO  Generating unique operation named: findAllPostUsingGET_1
+2021-04-20 12:06:15 INFO  Generating unique operation named: findAllUserIdUsingGET_1
+2021-04-20 12:06:15 INFO  Generating unique operation named: deleteUserUsingDELETE_1
+2021-04-20 12:06:15 INFO  Generating unique operation named: findAllPostUsingGET_2
+2021-04-20 12:06:15 INFO  Generating unique operation named: deleteCommentUsingDELETE_1
+2021-04-20 12:06:15 INFO  Generating unique operation named: viewAllCommentsUsingGET_1
+2021-04-20 12:06:15 INFO  Generating unique operation named: deletePostUsingDELETE_1
+2021-04-20 12:06:15 INFO  Started SocialMediaApplication in 6.878 seconds (JVM running for 8.131)
+2021-04-20 12:06:23 INFO  Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-20 12:06:23 INFO  Initializing Servlet 'dispatcherServlet'
+2021-04-20 12:06:23 INFO  Completed initialization in 5 ms
+2021-04-20 12:59:41 INFO  post for user id 13 is present[Post [post_id=21, post_content=https://www.youtube.com/watch?v=rlH2GRx6PUw, post_likes=45, postedOn=2021-02-26, title=solve Maven Config problem, userProfile=UserProfile [userprofile_id=13, about=Student, gender=Female, createdOn=2020-12-31, profilePicUrl=nikita123, languages=python]]]
+2021-04-20 12:59:57 INFO  To view all the comments 
+2021-04-20 13:14:29 INFO  Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-20 13:14:29 INFO  Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-20 13:14:29 INFO  HikariPool-1 - Shutdown initiated...
+2021-04-20 13:14:29 INFO  HikariPool-1 - Shutdown completed.
+2021-04-20 13:14:29 INFO  Starting SocialMediaApplication using Java 15.0.2 on LIN20004802 with PID 22292 (C:\Users\VSUDARSH\Downloads\SocialMedia\target\classes started by vsudarsh in C:\Users\VSUDARSH\Downloads\SocialMedia)
+2021-04-20 13:14:29 INFO  No active profile set, falling back to default profiles: default
+2021-04-20 13:14:30 INFO  Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-20 13:14:30 INFO  Finished Spring Data repository scanning in 54 ms. Found 9 JPA repository interfaces.
+2021-04-20 13:14:30 INFO  Tomcat initialized with port(s): 8080 (http)
+2021-04-20 13:14:30 INFO  Initializing ProtocolHandler ["http-nio-8080"]
+2021-04-20 13:14:30 INFO  Starting service [Tomcat]
+2021-04-20 13:14:30 INFO  Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-04-20 13:14:30 INFO  Initializing Spring embedded WebApplicationContext
+2021-04-20 13:14:30 INFO  Root WebApplicationContext: initialization completed in 640 ms
+2021-04-20 13:14:30 INFO  HikariPool-2 - Starting...
+2021-04-20 13:14:30 INFO  HikariPool-2 - Start completed.
+2021-04-20 13:14:30 INFO  HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2021-04-20 13:14:31 INFO  HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-20 13:14:31 INFO  Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-20 13:14:31 INFO  LiveReload server is running on port 35729
+2021-04-20 13:14:31 INFO  Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-20 13:14:31 INFO  Starting ProtocolHandler ["http-nio-8080"]
+2021-04-20 13:14:31 INFO  Tomcat started on port(s): 8080 (http) with context path ''
+2021-04-20 13:14:31 INFO  Context refreshed
+2021-04-20 13:14:31 INFO  Found 1 custom documentation plugin(s)
+2021-04-20 13:14:31 INFO  Scanning for api listing references
+2021-04-20 13:14:32 INFO  Generating unique operation named: findAllPostUsingGET_1
+2021-04-20 13:14:32 INFO  Generating unique operation named: findAllUserIdUsingGET_1
+2021-04-20 13:14:32 INFO  Generating unique operation named: deleteUserUsingDELETE_1
+2021-04-20 13:14:32 INFO  Generating unique operation named: findAllPostUsingGET_2
+2021-04-20 13:14:32 INFO  Generating unique operation named: deleteCommentUsingDELETE_1
+2021-04-20 13:14:32 INFO  Generating unique operation named: viewAllCommentsUsingGET_1
+2021-04-20 13:14:32 INFO  Generating unique operation named: deletePostUsingDELETE_1
+2021-04-20 13:14:32 INFO  Started SocialMediaApplication in 2.709 seconds (JVM running for 4104.845)
+2021-04-20 13:14:32 INFO  Condition evaluation unchanged
+2021-04-20 13:16:15 INFO  Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-20 13:16:15 INFO  Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-20 13:16:15 INFO  HikariPool-2 - Shutdown initiated...
+2021-04-20 13:16:15 INFO  HikariPool-2 - Shutdown completed.
+2021-04-20 13:16:15 INFO  Starting SocialMediaApplication using Java 15.0.2 on LIN20004802 with PID 22292 (C:\Users\VSUDARSH\Downloads\SocialMedia\target\classes started by vsudarsh in C:\Users\VSUDARSH\Downloads\SocialMedia)
+2021-04-20 13:16:15 INFO  No active profile set, falling back to default profiles: default
+2021-04-20 13:16:16 INFO  Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-20 13:16:16 INFO  Finished Spring Data repository scanning in 32 ms. Found 9 JPA repository interfaces.
+2021-04-20 13:16:16 INFO  Tomcat initialized with port(s): 8080 (http)
+2021-04-20 13:16:16 INFO  Initializing ProtocolHandler ["http-nio-8080"]
+2021-04-20 13:16:16 INFO  Starting service [Tomcat]
+2021-04-20 13:16:16 INFO  Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-04-20 13:16:16 INFO  Initializing Spring embedded WebApplicationContext
+2021-04-20 13:16:16 INFO  Root WebApplicationContext: initialization completed in 487 ms
+2021-04-20 13:16:16 INFO  HikariPool-3 - Starting...
+2021-04-20 13:16:16 INFO  HikariPool-3 - Start completed.
+2021-04-20 13:16:16 INFO  HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2021-04-20 13:16:17 INFO  HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-20 13:16:17 INFO  Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-20 13:16:17 INFO  LiveReload server is running on port 35729
+2021-04-20 13:16:17 INFO  Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-20 13:16:17 INFO  Starting ProtocolHandler ["http-nio-8080"]
+2021-04-20 13:16:17 INFO  Tomcat started on port(s): 8080 (http) with context path ''
+2021-04-20 13:16:17 INFO  Context refreshed
+2021-04-20 13:16:17 INFO  Found 1 custom documentation plugin(s)
+2021-04-20 13:16:17 INFO  Scanning for api listing references
+2021-04-20 13:16:17 INFO  Generating unique operation named: findAllPostUsingGET_1
+2021-04-20 13:16:17 INFO  Generating unique operation named: findAllUserIdUsingGET_1
+2021-04-20 13:16:17 INFO  Generating unique operation named: deleteUserUsingDELETE_1
+2021-04-20 13:16:17 INFO  Generating unique operation named: findAllPostUsingGET_2
+2021-04-20 13:16:17 INFO  Generating unique operation named: deleteCommentUsingDELETE_1
+2021-04-20 13:16:17 INFO  Generating unique operation named: viewAllCommentsUsingGET_1
+2021-04-20 13:16:18 INFO  Generating unique operation named: deletePostUsingDELETE_1
+2021-04-20 13:16:18 INFO  Started SocialMediaApplication in 2.319 seconds (JVM running for 4210.636)
+2021-04-20 13:16:18 INFO  Condition evaluation unchanged
+2021-04-20 13:33:19 INFO  Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-20 13:33:19 INFO  Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-20 13:33:19 INFO  HikariPool-3 - Shutdown initiated...
+2021-04-20 13:33:19 INFO  HikariPool-3 - Shutdown completed.
+2021-04-20 13:33:19 INFO  Starting SocialMediaApplication using Java 15.0.2 on LIN20004802 with PID 22292 (C:\Users\VSUDARSH\Downloads\SocialMedia\target\classes started by vsudarsh in C:\Users\VSUDARSH\Downloads\SocialMedia)
+2021-04-20 13:33:19 INFO  No active profile set, falling back to default profiles: default
+2021-04-20 13:33:20 INFO  Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-20 13:33:20 INFO  Finished Spring Data repository scanning in 31 ms. Found 9 JPA repository interfaces.
+2021-04-20 13:33:20 INFO  Tomcat initialized with port(s): 8080 (http)
+2021-04-20 13:33:20 INFO  Initializing ProtocolHandler ["http-nio-8080"]
+2021-04-20 13:33:20 INFO  Starting service [Tomcat]
+2021-04-20 13:33:20 INFO  Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-04-20 13:33:20 INFO  Initializing Spring embedded WebApplicationContext
+2021-04-20 13:33:20 INFO  Root WebApplicationContext: initialization completed in 486 ms
+2021-04-20 13:33:20 INFO  HikariPool-4 - Starting...
+2021-04-20 13:33:20 INFO  HikariPool-4 - Start completed.
+2021-04-20 13:33:20 INFO  HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2021-04-20 13:33:21 INFO  HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-20 13:33:21 INFO  Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-20 13:33:21 INFO  LiveReload server is running on port 35729
+2021-04-20 13:33:21 INFO  Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-20 13:33:21 INFO  Starting ProtocolHandler ["http-nio-8080"]
+2021-04-20 13:33:21 INFO  Tomcat started on port(s): 8080 (http) with context path ''
+2021-04-20 13:33:21 INFO  Context refreshed
+2021-04-20 13:33:21 INFO  Found 1 custom documentation plugin(s)
+2021-04-20 13:33:21 INFO  Scanning for api listing references
+2021-04-20 13:33:22 INFO  Generating unique operation named: findAllPostUsingGET_1
+2021-04-20 13:33:22 INFO  Generating unique operation named: findAllUserIdUsingGET_1
+2021-04-20 13:33:22 INFO  Generating unique operation named: deleteUserUsingDELETE_1
+2021-04-20 13:33:22 INFO  Generating unique operation named: findAllPostUsingGET_2
+2021-04-20 13:33:22 INFO  Generating unique operation named: deleteCommentUsingDELETE_1
+2021-04-20 13:33:22 INFO  Generating unique operation named: viewAllCommentsUsingGET_1
+2021-04-20 13:33:22 INFO  Generating unique operation named: deletePostUsingDELETE_1
+2021-04-20 13:33:22 INFO  Started SocialMediaApplication in 2.593 seconds (JVM running for 5234.898)
+2021-04-20 13:33:22 INFO  Condition evaluation unchanged
+2021-04-20 13:33:55 INFO  Application shutdown requested.
+2021-04-20 13:33:55 INFO  Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-20 13:33:55 INFO  Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-20 13:33:55 INFO  HikariPool-4 - Shutdown initiated...
+2021-04-20 13:33:55 INFO  HikariPool-4 - Shutdown completed.
+2021-04-20 13:44:10 INFO  HV000001: Hibernate Validator 6.1.7.Final
+2021-04-20 13:44:10 INFO  Starting SocialMediaApplication using Java 15.0.2 on LIN20004802 with PID 22872 (C:\Users\VSUDARSH\Downloads\SocialMedia\target\classes started by vsudarsh in C:\Users\VSUDARSH\Downloads\SocialMedia)
+2021-04-20 13:44:10 INFO  No active profile set, falling back to default profiles: default
+2021-04-20 13:44:10 INFO  Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-04-20 13:44:10 INFO  For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-04-20 13:44:11 INFO  Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-20 13:44:11 INFO  Finished Spring Data repository scanning in 64 ms. Found 9 JPA repository interfaces.
+2021-04-20 13:44:12 INFO  Tomcat initialized with port(s): 8080 (http)
+2021-04-20 13:44:12 INFO  Initializing ProtocolHandler ["http-nio-8080"]
+2021-04-20 13:44:12 INFO  Starting service [Tomcat]
+2021-04-20 13:44:12 INFO  Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-04-20 13:44:12 INFO  Initializing Spring embedded WebApplicationContext
+2021-04-20 13:44:12 INFO  Root WebApplicationContext: initialization completed in 1766 ms
+2021-04-20 13:44:12 INFO  HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-20 13:44:12 INFO  HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-20 13:44:12 INFO  HikariPool-1 - Starting...
+2021-04-20 13:44:13 INFO  HikariPool-1 - Start completed.
+2021-04-20 13:44:13 INFO  HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2021-04-20 13:44:14 INFO  HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-20 13:44:14 INFO  Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-20 13:44:14 INFO  LiveReload server is running on port 35729
+2021-04-20 13:44:15 INFO  Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-20 13:44:15 INFO  Starting ProtocolHandler ["http-nio-8080"]
+2021-04-20 13:44:15 INFO  Tomcat started on port(s): 8080 (http) with context path ''
+2021-04-20 13:44:15 INFO  Context refreshed
+2021-04-20 13:44:15 INFO  Found 1 custom documentation plugin(s)
+2021-04-20 13:44:15 INFO  Scanning for api listing references
+2021-04-20 13:44:16 INFO  Generating unique operation named: findAllPostUsingGET_1
+2021-04-20 13:44:16 INFO  Generating unique operation named: findAllUserIdUsingGET_1
+2021-04-20 13:44:16 INFO  Generating unique operation named: deleteUserUsingDELETE_1
+2021-04-20 13:44:16 INFO  Generating unique operation named: findAllPostUsingGET_2
+2021-04-20 13:44:16 INFO  Generating unique operation named: deleteCommentUsingDELETE_1
+2021-04-20 13:44:16 INFO  Generating unique operation named: viewAllCommentsUsingGET_1
+2021-04-20 13:44:16 INFO  Generating unique operation named: deletePostUsingDELETE_1
+2021-04-20 13:44:16 INFO  Started SocialMediaApplication in 6.373 seconds (JVM running for 7.566)
+2021-04-20 13:45:21 INFO  Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-20 13:45:21 INFO  Initializing Servlet 'dispatcherServlet'
+2021-04-20 13:45:21 INFO  Completed initialization in 2 ms
+2021-04-20 13:45:21 INFO  null
+2021-04-20 13:46:04 INFO  user by username ankita123 is presentUserProfile [userprofile_id=63, about=Student, gender=Female, createdOn=2021-04-03, profilePicUrl=ankita123, languages=java]
+2021-04-20 13:47:16 INFO  Friend added/found
+2021-04-20 13:47:39 INFO  Friend added/found
+2021-04-20 13:48:07 INFO  Data retrieve Successfully
+2021-04-20 13:48:17 INFO  user deleted 62 Auser [userId=62, username=ankita123, firstName=ankita, lastName=bale, emailId=ankita@gmail.com, password=Ankita@123, phoneNumber=9187263542]
+2021-04-20 13:48:17 INFO  HHH000010: On release of batch it still contained JDBC statements
+2021-04-20 13:48:23 INFO  Data retrieve Successfully
+2021-04-20 13:49:16 INFO  user deleted 29 Auser [userId=29, username=aishu123, firstName=aishu, lastName=jain, emailId=aishu@gmail.com, password=Aishu@123, phoneNumber=9187263542]
+2021-04-20 13:50:14 INFO  post for user id 13 is present[Post [post_id=21, post_content=https://www.youtube.com/watch?v=rlH2GRx6PUw, post_likes=45, postedOn=2021-02-26, title=solve Maven Config problem, userProfile=UserProfile [userprofile_id=13, about=Student, gender=Female, createdOn=2020-12-31, profilePicUrl=nikita123, languages=python]]]
+2021-04-20 13:51:34 INFO  post deleted 21 Post [post_id=21, post_content=https://www.youtube.com/watch?v=rlH2GRx6PUw, post_likes=45, postedOn=2021-02-26, title=solve Maven Config problem, userProfile=UserProfile [userprofile_id=13, about=Student, gender=Female, createdOn=2020-12-31, profilePicUrl=nikita123, languages=python]]
+2021-04-20 13:56:25 INFO  null
+2021-04-20 14:12:56 INFO  Application shutdown requested.
+2021-04-20 14:12:56 INFO  Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-20 14:12:56 INFO  Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-20 14:12:56 INFO  HikariPool-1 - Shutdown initiated...
+2021-04-20 14:12:56 INFO  HikariPool-1 - Shutdown completed.
+2021-04-20 14:57:26 INFO  HV000001: Hibernate Validator 6.1.7.Final
+2021-04-20 14:57:26 INFO  Starting SocialMediaApplication using Java 15.0.2 on LIN20004802 with PID 17044 (C:\Users\VSUDARSH\Downloads\SocialMedia\target\classes started by vsudarsh in C:\Users\VSUDARSH\Downloads\SocialMedia)
+2021-04-20 14:57:26 INFO  No active profile set, falling back to default profiles: default
+2021-04-20 14:57:26 INFO  Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-04-20 14:57:26 INFO  For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-04-20 14:57:27 INFO  Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-20 14:57:27 INFO  Finished Spring Data repository scanning in 77 ms. Found 9 JPA repository interfaces.
+2021-04-20 14:57:28 INFO  Tomcat initialized with port(s): 8080 (http)
+2021-04-20 14:57:28 INFO  Initializing ProtocolHandler ["http-nio-8080"]
+2021-04-20 14:57:28 INFO  Starting service [Tomcat]
+2021-04-20 14:57:28 INFO  Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-04-20 14:57:28 INFO  Initializing Spring embedded WebApplicationContext
+2021-04-20 14:57:28 INFO  Root WebApplicationContext: initialization completed in 1967 ms
+2021-04-20 14:57:28 INFO  HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-20 14:57:28 INFO  HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-20 14:57:28 INFO  HikariPool-1 - Starting...
+2021-04-20 14:57:29 INFO  HikariPool-1 - Start completed.
+2021-04-20 14:57:29 INFO  HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2021-04-20 14:57:30 INFO  HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-20 14:57:30 INFO  Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-20 14:57:30 INFO  LiveReload server is running on port 35729
+2021-04-20 14:57:32 INFO  Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-20 14:57:32 INFO  Starting ProtocolHandler ["http-nio-8080"]
+2021-04-20 14:57:32 INFO  Tomcat started on port(s): 8080 (http) with context path ''
+2021-04-20 14:57:32 INFO  Context refreshed
+2021-04-20 14:57:32 INFO  Found 1 custom documentation plugin(s)
+2021-04-20 14:57:32 INFO  Scanning for api listing references
+2021-04-20 14:57:32 INFO  Generating unique operation named: findAllPostUsingGET_1
+2021-04-20 14:57:32 INFO  Generating unique operation named: findAllUserIdUsingGET_1
+2021-04-20 14:57:32 INFO  Generating unique operation named: deleteUserUsingDELETE_1
+2021-04-20 14:57:32 INFO  Generating unique operation named: findAllPostUsingGET_2
+2021-04-20 14:57:32 INFO  Generating unique operation named: deleteCommentUsingDELETE_1
+2021-04-20 14:57:32 INFO  Generating unique operation named: viewAllCommentsUsingGET_1
+2021-04-20 14:57:32 INFO  Generating unique operation named: deletePostUsingDELETE_1
+2021-04-20 14:57:32 INFO  Started SocialMediaApplication in 7.08 seconds (JVM running for 8.552)
+2021-04-20 14:58:49 INFO  Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-20 14:58:49 INFO  Initializing Servlet 'dispatcherServlet'
+2021-04-20 14:58:49 INFO  Completed initialization in 2 ms
+2021-04-20 16:26:37 INFO  Application shutdown requested.
+2021-04-20 16:26:37 INFO  Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-20 16:26:37 INFO  Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-20 16:26:37 INFO  HikariPool-1 - Shutdown initiated...
+2021-04-20 16:26:37 INFO  HikariPool-1 - Shutdown completed.
+2021-04-20 19:14:51 INFO  HV000001: Hibernate Validator 6.1.7.Final
+2021-04-20 19:14:51 INFO  Starting SocialMediaApplication using Java 15.0.2 on LIN20004802 with PID 18968 (C:\Users\VSUDARSH\Downloads\SocialMedia\target\classes started by vsudarsh in C:\Users\VSUDARSH\Downloads\SocialMedia)
+2021-04-20 19:14:51 INFO  No active profile set, falling back to default profiles: default
+2021-04-20 19:14:51 INFO  Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-04-20 19:14:51 INFO  For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-04-20 19:14:53 INFO  Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-20 19:14:53 INFO  Finished Spring Data repository scanning in 142 ms. Found 9 JPA repository interfaces.
+2021-04-20 19:14:55 INFO  Tomcat initialized with port(s): 8080 (http)
+2021-04-20 19:14:55 INFO  Initializing ProtocolHandler ["http-nio-8080"]
+2021-04-20 19:14:55 INFO  Starting service [Tomcat]
+2021-04-20 19:14:55 INFO  Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-04-20 19:14:55 INFO  Initializing Spring embedded WebApplicationContext
+2021-04-20 19:14:55 INFO  Root WebApplicationContext: initialization completed in 3496 ms
+2021-04-20 19:14:55 INFO  HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-20 19:14:56 INFO  HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-20 19:14:56 INFO  HikariPool-1 - Starting...
+2021-04-20 19:14:56 INFO  HikariPool-1 - Start completed.
+2021-04-20 19:14:56 INFO  HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2021-04-20 19:14:59 INFO  HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-20 19:14:59 INFO  Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-20 19:14:59 INFO  LiveReload server is running on port 35729
+2021-04-20 19:15:01 INFO  Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-20 19:15:01 INFO  Starting ProtocolHandler ["http-nio-8080"]
+2021-04-20 19:15:02 INFO  Tomcat started on port(s): 8080 (http) with context path ''
+2021-04-20 19:15:02 INFO  Context refreshed
+2021-04-20 19:15:02 INFO  Found 1 custom documentation plugin(s)
+2021-04-20 19:15:02 INFO  Scanning for api listing references
+2021-04-20 19:15:02 INFO  Generating unique operation named: findAllPostUsingGET_1
+2021-04-20 19:15:02 INFO  Generating unique operation named: findAllUserIdUsingGET_1
+2021-04-20 19:15:02 INFO  Generating unique operation named: deleteUserUsingDELETE_1
+2021-04-20 19:15:02 INFO  Generating unique operation named: findAllPostUsingGET_2
+2021-04-20 19:15:02 INFO  Generating unique operation named: deleteCommentUsingDELETE_1
+2021-04-20 19:15:02 INFO  Generating unique operation named: viewAllCommentsUsingGET_1
+2021-04-20 19:15:02 INFO  Generating unique operation named: deletePostUsingDELETE_1
+2021-04-20 19:15:03 INFO  Started SocialMediaApplication in 12.432 seconds (JVM running for 15.859)
+2021-04-20 19:15:19 INFO  Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-20 19:15:19 INFO  Initializing Servlet 'dispatcherServlet'
+2021-04-20 19:15:19 INFO  Completed initialization in 4 ms
+2021-04-20 19:15:46 INFO  user by username nikita123 is presentUserProfile [userprofile_id=13, about=Student, gender=Female, createdOn=2020-12-31, profilePicUrl=nikita123, languages=python]
+2021-04-20 19:16:34 INFO  Friend added/found
+2021-04-20 19:16:57 INFO  Data retrieve Successfully
+2021-04-20 19:17:17 INFO  post for user id 10 is present[Post [post_id=18, post_content=https://www.youtube.com/watch?v=jfKhh4dINMA, post_likes=40, postedOn=2021-03-25, title=Servlets, userProfile=UserProfile [userprofile_id=10, about=Employee, gender=Male, createdOn=2021-01-07, profilePicUrl=harshal123, languages=.net]], Post [post_id=25, post_content=https://www.youtube.com/watch?v=6tjYC86iV5E, post_likes=50, postedOn=2021-04-01, title=Arrays, userProfile=UserProfile [userprofile_id=10, about=Employee, gender=Male, createdOn=2021-01-07, profilePicUrl=harshal123, languages=.net]]]
+2021-04-20 20:15:48 INFO  Application shutdown requested.
+2021-04-20 20:15:48 INFO  Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-20 20:15:48 INFO  Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-20 20:15:48 INFO  HikariPool-1 - Shutdown initiated...
+2021-04-20 20:15:48 INFO  HikariPool-1 - Shutdown completed.
+2021-04-21 08:48:02 INFO  HV000001: Hibernate Validator 6.1.7.Final
+2021-04-21 08:48:02 INFO  Starting SocialMediaApplication using Java 15.0.2 on LIN20004802 with PID 22944 (C:\Users\VSUDARSH\Downloads\SocialMedia\target\classes started by vsudarsh in C:\Users\VSUDARSH\Downloads\SocialMedia)
+2021-04-21 08:48:02 INFO  No active profile set, falling back to default profiles: default
+2021-04-21 08:48:02 INFO  Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-04-21 08:48:02 INFO  For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-04-21 08:48:05 INFO  Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-21 08:48:06 INFO  Finished Spring Data repository scanning in 197 ms. Found 9 JPA repository interfaces.
+2021-04-21 08:48:07 INFO  Tomcat initialized with port(s): 8080 (http)
+2021-04-21 08:48:07 INFO  Initializing ProtocolHandler ["http-nio-8080"]
+2021-04-21 08:48:07 INFO  Starting service [Tomcat]
+2021-04-21 08:48:07 INFO  Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-04-21 08:48:07 INFO  Initializing Spring embedded WebApplicationContext
+2021-04-21 08:48:07 INFO  Root WebApplicationContext: initialization completed in 5117 ms
+2021-04-21 08:48:08 INFO  HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-21 08:48:08 INFO  HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-21 08:48:09 INFO  HikariPool-1 - Starting...
+2021-04-21 08:48:09 INFO  HikariPool-1 - Start completed.
+2021-04-21 08:48:09 INFO  HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2021-04-21 08:48:12 INFO  HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-21 08:48:12 INFO  Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-21 08:48:13 INFO  LiveReload server is running on port 35729
+2021-04-21 08:48:15 INFO  Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-21 08:48:16 INFO  Starting ProtocolHandler ["http-nio-8080"]
+2021-04-21 08:48:16 INFO  Tomcat started on port(s): 8080 (http) with context path ''
+2021-04-21 08:48:16 INFO  Context refreshed
+2021-04-21 08:48:16 INFO  Found 1 custom documentation plugin(s)
+2021-04-21 08:48:16 INFO  Scanning for api listing references
+2021-04-21 08:48:17 INFO  Generating unique operation named: findAllPostUsingGET_1
+2021-04-21 08:48:17 INFO  Generating unique operation named: findAllUserIdUsingGET_1
+2021-04-21 08:48:17 INFO  Generating unique operation named: deleteUserUsingDELETE_1
+2021-04-21 08:48:17 INFO  Generating unique operation named: findAllPostUsingGET_2
+2021-04-21 08:48:17 INFO  Generating unique operation named: deleteCommentUsingDELETE_1
+2021-04-21 08:48:17 INFO  Generating unique operation named: viewAllCommentsUsingGET_1
+2021-04-21 08:48:17 INFO  Generating unique operation named: deletePostUsingDELETE_1
+2021-04-21 08:48:17 INFO  Started SocialMediaApplication in 16.183 seconds (JVM running for 19.375)
+2021-04-21 08:51:13 INFO  Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-21 08:51:13 INFO  Initializing Servlet 'dispatcherServlet'
+2021-04-21 08:51:13 INFO  Completed initialization in 5 ms
+2021-04-21 08:51:13 INFO  Data retrieve Successfully
+2021-04-21 08:52:30 INFO  Data retrieve Successfully
+2021-04-21 08:53:53 INFO  Data retrieve Successfully
+2021-04-21 08:54:26 INFO  Data retrieve Successfully
+2021-04-21 08:59:34 INFO  Data retrieve Successfully
+2021-04-21 09:28:26 INFO  Friend added/found
+2021-04-21 10:19:26 INFO  user by username nikita123 is presentUserProfile [userprofile_id=13, about=Student, gender=Female, createdOn=2020-12-31, profilePicUrl=nikita123, languages=python]
+2021-04-21 10:40:23 INFO  user by username nikita123 is presentUserProfile [userprofile_id=13, about=Student, gender=Female, createdOn=2020-12-31, profilePicUrl=nikita123, languages=python]
+2021-04-21 10:42:01 INFO  user by username nikita123 is presentUserProfile [userprofile_id=13, about=Student, gender=Female, createdOn=2020-12-31, profilePicUrl=nikita123, languages=python]
+2021-04-21 10:42:40 INFO  user by username nikita123 is presentUserProfile [userprofile_id=13, about=Student, gender=Female, createdOn=2020-12-31, profilePicUrl=nikita123, languages=python]
+2021-04-21 10:45:54 INFO  user by username nikita123 is presentUserProfile [userprofile_id=13, about=Student, gender=Female, createdOn=2020-12-31, profilePicUrl=nikita123, languages=python]
+2021-04-21 10:46:05 INFO  user by username nikita123 is presentUserProfile [userprofile_id=13, about=Student, gender=Female, createdOn=2020-12-31, profilePicUrl=nikita123, languages=python]
+2021-04-21 10:46:56 INFO  user by username nikita123 is presentUserProfile [userprofile_id=13, about=Student, gender=Female, createdOn=2020-12-31, profilePicUrl=nikita123, languages=python]
+2021-04-21 10:47:06 INFO  user by username nikita123 is presentUserProfile [userprofile_id=13, about=Student, gender=Female, createdOn=2020-12-31, profilePicUrl=nikita123, languages=python]
+2021-04-21 10:47:15 INFO  user by username nikita123 is presentUserProfile [userprofile_id=13, about=Student, gender=Female, createdOn=2020-12-31, profilePicUrl=nikita123, languages=python]
+2021-04-21 10:47:43 INFO  user by username nikita123 is presentUserProfile [userprofile_id=13, about=Student, gender=Female, createdOn=2020-12-31, profilePicUrl=nikita123, languages=python]
+2021-04-21 10:49:18 INFO  user by username nikita123 is presentUserProfile [userprofile_id=13, about=Student, gender=Female, createdOn=2020-12-31, profilePicUrl=nikita123, languages=python]
+2021-04-21 10:50:08 INFO  user by username nikita123 is presentUserProfile [userprofile_id=13, about=Student, gender=Female, createdOn=2020-12-31, profilePicUrl=nikita123, languages=python]
+2021-04-21 10:50:29 INFO  user by username nikita123 is presentUserProfile [userprofile_id=13, about=Student, gender=Female, createdOn=2020-12-31, profilePicUrl=nikita123, languages=python]
+2021-04-21 10:50:39 INFO  user by username nikita123 is presentUserProfile [userprofile_id=13, about=Student, gender=Female, createdOn=2020-12-31, profilePicUrl=nikita123, languages=python]
+2021-04-21 10:50:51 INFO  user by username nikita123 is presentUserProfile [userprofile_id=13, about=Student, gender=Female, createdOn=2020-12-31, profilePicUrl=nikita123, languages=python]
+2021-04-21 10:51:10 INFO  user by username nikita123 is presentUserProfile [userprofile_id=13, about=Student, gender=Female, createdOn=2020-12-31, profilePicUrl=nikita123, languages=python]
+2021-04-21 10:51:32 INFO  user by username nikita123 is presentUserProfile [userprofile_id=13, about=Student, gender=Female, createdOn=2020-12-31, profilePicUrl=nikita123, languages=python]
+2021-04-21 10:51:46 INFO  user by username nikita123 is presentUserProfile [userprofile_id=13, about=Student, gender=Female, createdOn=2020-12-31, profilePicUrl=nikita123, languages=python]
+2021-04-21 10:52:35 INFO  user by username nikita123 is presentUserProfile [userprofile_id=13, about=Student, gender=Female, createdOn=2020-12-31, profilePicUrl=nikita123, languages=python]
+2021-04-21 10:52:39 INFO  user by username nikita123 is presentUserProfile [userprofile_id=13, about=Student, gender=Female, createdOn=2020-12-31, profilePicUrl=nikita123, languages=python]
+2021-04-21 10:53:19 INFO  user by username nikita123 is presentUserProfile [userprofile_id=13, about=Student, gender=Female, createdOn=2020-12-31, profilePicUrl=nikita123, languages=python]
+2021-04-21 10:54:12 INFO  user by username nikita123 is presentUserProfile [userprofile_id=13, about=Student, gender=Female, createdOn=2020-12-31, profilePicUrl=nikita123, languages=python]
+2021-04-21 10:54:56 INFO  user by username nikita123 is presentUserProfile [userprofile_id=13, about=Student, gender=Female, createdOn=2020-12-31, profilePicUrl=nikita123, languages=python]
+2021-04-21 10:55:55 INFO  user by username nikita123 is presentUserProfile [userprofile_id=13, about=Student, gender=Female, createdOn=2020-12-31, profilePicUrl=nikita123, languages=python]
+2021-04-21 10:56:30 INFO  user by username nikita123 is presentUserProfile [userprofile_id=13, about=Student, gender=Female, createdOn=2020-12-31, profilePicUrl=nikita123, languages=python]
+2021-04-21 10:56:39 INFO  user by username nikita123 is presentUserProfile [userprofile_id=13, about=Student, gender=Female, createdOn=2020-12-31, profilePicUrl=nikita123, languages=python]
+2021-04-21 10:57:00 INFO  user by username nikita123 is presentUserProfile [userprofile_id=13, about=Student, gender=Female, createdOn=2020-12-31, profilePicUrl=nikita123, languages=python]
+2021-04-21 10:57:46 INFO  user by username nikita123 is presentUserProfile [userprofile_id=13, about=Student, gender=Female, createdOn=2020-12-31, profilePicUrl=nikita123, languages=python]
+2021-04-21 11:02:16 INFO  user by username nikita123 is presentUserProfile [userprofile_id=13, about=Student, gender=Female, createdOn=2020-12-31, profilePicUrl=nikita123, languages=python]
+2021-04-21 11:02:49 INFO  Friend added/found
+2021-04-21 11:09:55 INFO  user by username nikita123 is presentUserProfile [userprofile_id=13, about=Student, gender=Female, createdOn=2020-12-31, profilePicUrl=nikita123, languages=python]
+2021-04-21 11:12:49 INFO  Data retrieve Successfully
+2021-04-21 11:14:16 INFO  Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-21 11:14:16 INFO  Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-21 11:14:16 INFO  HikariPool-1 - Shutdown initiated...
+2021-04-21 11:14:16 INFO  HikariPool-1 - Shutdown completed.
+2021-04-21 11:14:16 INFO  Starting SocialMediaApplication using Java 15.0.2 on LIN20004802 with PID 22944 (C:\Users\VSUDARSH\Downloads\SocialMedia\target\classes started by vsudarsh in C:\Users\VSUDARSH\Downloads\SocialMedia)
+2021-04-21 11:14:16 INFO  No active profile set, falling back to default profiles: default
+2021-04-21 11:14:17 INFO  Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-21 11:14:17 INFO  Finished Spring Data repository scanning in 35 ms. Found 9 JPA repository interfaces.
+2021-04-21 11:14:17 INFO  Tomcat initialized with port(s): 8080 (http)
+2021-04-21 11:14:17 INFO  Initializing ProtocolHandler ["http-nio-8080"]
+2021-04-21 11:14:17 INFO  Starting service [Tomcat]
+2021-04-21 11:14:17 INFO  Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-04-21 11:14:17 INFO  Initializing Spring embedded WebApplicationContext
+2021-04-21 11:14:17 INFO  Root WebApplicationContext: initialization completed in 756 ms
+2021-04-21 11:14:17 INFO  HikariPool-2 - Starting...
+2021-04-21 11:14:17 INFO  HikariPool-2 - Start completed.
+2021-04-21 11:14:17 INFO  HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2021-04-21 11:14:18 INFO  HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-21 11:14:18 INFO  Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-21 11:14:18 INFO  LiveReload server is running on port 35729
+2021-04-21 11:14:18 INFO  Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-21 11:14:19 INFO  Starting ProtocolHandler ["http-nio-8080"]
+2021-04-21 11:14:19 INFO  Tomcat started on port(s): 8080 (http) with context path ''
+2021-04-21 11:14:19 INFO  Context refreshed
+2021-04-21 11:14:19 INFO  Found 1 custom documentation plugin(s)
+2021-04-21 11:14:19 INFO  Scanning for api listing references
+2021-04-21 11:14:19 INFO  Generating unique operation named: findAllPostUsingGET_1
+2021-04-21 11:14:19 INFO  Generating unique operation named: findAllUserIdUsingGET_1
+2021-04-21 11:14:19 INFO  Generating unique operation named: deleteUserUsingDELETE_1
+2021-04-21 11:14:19 INFO  Generating unique operation named: findAllPostUsingGET_2
+2021-04-21 11:14:19 INFO  Generating unique operation named: deleteCommentUsingDELETE_1
+2021-04-21 11:14:19 INFO  Generating unique operation named: viewAllCommentsUsingGET_1
+2021-04-21 11:14:19 INFO  Generating unique operation named: deletePostUsingDELETE_1
+2021-04-21 11:14:19 INFO  Started SocialMediaApplication in 2.792 seconds (JVM running for 8781.035)
+2021-04-21 11:14:19 INFO  Condition evaluation unchanged
+2021-04-21 11:18:40 INFO  Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-21 11:18:40 INFO  Initializing Servlet 'dispatcherServlet'
+2021-04-21 11:18:40 INFO  Completed initialization in 5 ms
+2021-04-21 11:19:07 INFO  post for user id 11 is present[Post [post_id=19, post_content=https://www.youtube.com/watch?v=TYeGukAsRdQ, post_likes=50, postedOn=2021-03-31, title=Junit, userProfile=UserProfile [userprofile_id=11, about=professor, gender=Female, createdOn=2021-01-15, profilePicUrl=asmita123, languages=.net]]]
+2021-04-21 11:19:13 INFO  post for user id 11 is present[Post [post_id=19, post_content=https://www.youtube.com/watch?v=TYeGukAsRdQ, post_likes=50, postedOn=2021-03-31, title=Junit, userProfile=UserProfile [userprofile_id=11, about=professor, gender=Female, createdOn=2021-01-15, profilePicUrl=asmita123, languages=.net]]]
+2021-04-21 11:20:40 INFO  post for user id 9 is present[Post [post_id=17, post_content=https://www.youtube.com/watch?v=n8tL3TTuQCs, post_likes=30, postedOn=2021-04-01, title=String, userProfile=UserProfile [userprofile_id=9, about=Student, gender=Female, createdOn=2021-03-04, profilePicUrl=gayatri123, languages=java]], Post [post_id=66, post_content=https://www.youtube.com/watch?v=rlH2GRx6PUw, post_likes=1, postedOn=2021-04-07, title=solve error in pom.xml, userProfile=UserProfile [userprofile_id=9, about=Student, gender=Female, createdOn=2021-03-04, profilePicUrl=gayatri123, languages=java]]]
+2021-04-21 11:21:48 INFO  To view all the user id's who made comments
+2021-04-21 11:21:51 INFO  To view all the comments for user id 11
+2021-04-21 11:21:51 INFO  comments for user id 11 is present[Comment [comment_id=3, comment_content=very good, comment_likes=4, commentedOn=2021-03-14, post=Post [post_id=20, post_content=https://www.youtube.com/watch?v=a14xfNV-UIs, post_likes=30, postedOn=2021-03-29, title=Spring, userProfile=UserProfile [userprofile_id=12, about=Employee, gender=Female, createdOn=2020-12-17, profilePicUrl=anjali123, languages=java]], userProfile=UserProfile [userprofile_id=11, about=professor, gender=Female, createdOn=2021-01-15, profilePicUrl=asmita123, languages=.net]]]
+2021-04-21 11:21:56 INFO  To view all the post id's which contain comments
+2021-04-21 11:21:59 INFO  To view all the comments for post id 20
+2021-04-21 11:21:59 INFO  comments for post id 20 is present[Comment [comment_id=3, comment_content=very good, comment_likes=4, commentedOn=2021-03-14, post=Post [post_id=20, post_content=https://www.youtube.com/watch?v=a14xfNV-UIs, post_likes=30, postedOn=2021-03-29, title=Spring, userProfile=UserProfile [userprofile_id=12, about=Employee, gender=Female, createdOn=2020-12-17, profilePicUrl=anjali123, languages=java]], userProfile=UserProfile [userprofile_id=11, about=professor, gender=Female, createdOn=2021-01-15, profilePicUrl=asmita123, languages=.net]]]
+2021-04-21 11:22:03 INFO  To view all the comments for post id 17
+2021-04-21 11:22:03 INFO  comments for post id 17 is present[Comment [comment_id=2, comment_content=nice one, comment_likes=4, commentedOn=2021-04-14, post=Post [post_id=17, post_content=https://www.youtube.com/watch?v=n8tL3TTuQCs, post_likes=30, postedOn=2021-04-01, title=String, userProfile=UserProfile [userprofile_id=9, about=Student, gender=Female, createdOn=2021-03-04, profilePicUrl=gayatri123, languages=java]], userProfile=UserProfile [userprofile_id=10, about=Employee, gender=Male, createdOn=2021-01-07, profilePicUrl=harshal123, languages=.net]]]
+2021-04-21 11:23:29 INFO  Data retrieve Successfully
+2021-04-21 11:23:39 INFO  post for user id 9 is present[Post [post_id=17, post_content=https://www.youtube.com/watch?v=n8tL3TTuQCs, post_likes=30, postedOn=2021-04-01, title=String, userProfile=UserProfile [userprofile_id=9, about=Student, gender=Female, createdOn=2021-03-04, profilePicUrl=gayatri123, languages=java]], Post [post_id=66, post_content=https://www.youtube.com/watch?v=rlH2GRx6PUw, post_likes=1, postedOn=2021-04-07, title=solve error in pom.xml, userProfile=UserProfile [userprofile_id=9, about=Student, gender=Female, createdOn=2021-03-04, profilePicUrl=gayatri123, languages=java]]]
+2021-04-21 11:44:32 INFO  null
+2021-04-21 11:46:22 INFO  user by username nitesh123 is presentUserProfile [userprofile_id=69, about=Student, gender=Male, createdOn=2021-02-10, profilePicUrl=nitesh123, languages=java]
+2021-04-21 11:51:32 INFO  Data retrieve Successfully
+2021-04-21 11:51:41 INFO  user deleted 65 Auser [userId=65, username=manish123, firstName=manish, lastName=jain, emailId=manish@gmail.com, password=Manish@123, phoneNumber=9182736524]
+2021-04-21 11:52:05 INFO  post for user id 11 is present[Post [post_id=19, post_content=https://www.youtube.com/watch?v=TYeGukAsRdQ, post_likes=50, postedOn=2021-03-31, title=Junit, userProfile=UserProfile [userprofile_id=11, about=professor, gender=Female, createdOn=2021-01-15, profilePicUrl=asmita123, languages=.net]]]
+2021-04-21 11:52:12 INFO  post for user id 9 is present[Post [post_id=17, post_content=https://www.youtube.com/watch?v=n8tL3TTuQCs, post_likes=30, postedOn=2021-04-01, title=String, userProfile=UserProfile [userprofile_id=9, about=Student, gender=Female, createdOn=2021-03-04, profilePicUrl=gayatri123, languages=java]], Post [post_id=66, post_content=https://www.youtube.com/watch?v=rlH2GRx6PUw, post_likes=1, postedOn=2021-04-07, title=solve error in pom.xml, userProfile=UserProfile [userprofile_id=9, about=Student, gender=Female, createdOn=2021-03-04, profilePicUrl=gayatri123, languages=java]]]
+2021-04-21 11:52:17 INFO  post deleted 66 Post [post_id=66, post_content=https://www.youtube.com/watch?v=rlH2GRx6PUw, post_likes=1, postedOn=2021-04-07, title=solve error in pom.xml, userProfile=UserProfile [userprofile_id=9, about=Student, gender=Female, createdOn=2021-03-04, profilePicUrl=gayatri123, languages=java]]
+2021-04-21 11:52:23 INFO  post for user id 9 is present[Post [post_id=17, post_content=https://www.youtube.com/watch?v=n8tL3TTuQCs, post_likes=30, postedOn=2021-04-01, title=String, userProfile=UserProfile [userprofile_id=9, about=Student, gender=Female, createdOn=2021-03-04, profilePicUrl=gayatri123, languages=java]]]
+2021-04-21 11:52:32 INFO  To view all the comments 
+2021-04-21 11:52:38 INFO  To view all the user id's who made comments
+2021-04-21 11:52:42 INFO  To view all the comments for user id 9
+2021-04-21 11:52:42 INFO  comments for user id 9 is present[Comment [comment_id=1, comment_content=informative, comment_likes=5, commentedOn=2021-04-04, post=Post [post_id=18, post_content=https://www.youtube.com/watch?v=jfKhh4dINMA, post_likes=40, postedOn=2021-03-25, title=Servlets, userProfile=UserProfile [userprofile_id=10, about=Employee, gender=Male, createdOn=2021-01-07, profilePicUrl=harshal123, languages=.net]], userProfile=UserProfile [userprofile_id=9, about=Student, gender=Female, createdOn=2021-03-04, profilePicUrl=gayatri123, languages=java]], Comment [comment_id=4, comment_content=very informative, comment_likes=4, commentedOn=2021-04-19, post=Post [post_id=18, post_content=https://www.youtube.com/watch?v=jfKhh4dINMA, post_likes=40, postedOn=2021-03-25, title=Servlets, userProfile=UserProfile [userprofile_id=10, about=Employee, gender=Male, createdOn=2021-01-07, profilePicUrl=harshal123, languages=.net]], userProfile=UserProfile [userprofile_id=9, about=Student, gender=Female, createdOn=2021-03-04, profilePicUrl=gayatri123, languages=java]]]
+2021-04-21 11:52:48 INFO  To view all the post id's which contain comments
+2021-04-21 11:52:53 INFO  To view all the comments for post id 17
+2021-04-21 11:52:53 INFO  comments for post id 17 is present[Comment [comment_id=2, comment_content=nice one, comment_likes=4, commentedOn=2021-04-14, post=Post [post_id=17, post_content=https://www.youtube.com/watch?v=n8tL3TTuQCs, post_likes=30, postedOn=2021-04-01, title=String, userProfile=UserProfile [userprofile_id=9, about=Student, gender=Female, createdOn=2021-03-04, profilePicUrl=gayatri123, languages=java]], userProfile=UserProfile [userprofile_id=10, about=Employee, gender=Male, createdOn=2021-01-07, profilePicUrl=harshal123, languages=.net]]]
+2021-04-21 11:52:59 INFO  To delete  comment for comment id 2
+2021-04-21 11:53:00 INFO  comment deleted 2 Comment [comment_id=2, comment_content=nice one, comment_likes=4, commentedOn=2021-04-14, post=Post [post_id=17, post_content=https://www.youtube.com/watch?v=n8tL3TTuQCs, post_likes=30, postedOn=2021-04-01, title=String, userProfile=UserProfile [userprofile_id=9, about=Student, gender=Female, createdOn=2021-03-04, profilePicUrl=gayatri123, languages=java]], userProfile=UserProfile [userprofile_id=10, about=Employee, gender=Male, createdOn=2021-01-07, profilePicUrl=harshal123, languages=.net]]
+2021-04-21 11:53:03 INFO  To view all the comments for post id 17
+2021-04-21 11:53:11 INFO  To view all the comments 
+2021-04-21 12:52:49 INFO  To view all the comments 
+2021-04-21 12:53:00 INFO  To delete  comment for comment id 4
+2021-04-21 12:53:00 INFO  comment deleted 4 Comment [comment_id=4, comment_content=very informative, comment_likes=4, commentedOn=2021-04-19, post=Post [post_id=18, post_content=https://www.youtube.com/watch?v=jfKhh4dINMA, post_likes=40, postedOn=2021-03-25, title=Servlets, userProfile=UserProfile [userprofile_id=10, about=Employee, gender=Male, createdOn=2021-01-07, profilePicUrl=harshal123, languages=.net]], userProfile=UserProfile [userprofile_id=9, about=Student, gender=Female, createdOn=2021-03-04, profilePicUrl=gayatri123, languages=java]]
+2021-04-21 13:53:35 INFO  Application shutdown requested.
+2021-04-21 13:53:36 INFO  Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-21 13:53:36 INFO  Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-21 13:53:36 INFO  HikariPool-2 - Shutdown initiated...
+2021-04-21 13:53:36 INFO  HikariPool-2 - Shutdown completed.
+2021-04-27 15:32:48 INFO  HV000001: Hibernate Validator 6.1.7.Final
+2021-04-27 15:32:48 INFO  Starting SocialMediaApplication using Java 15.0.2 on LIN83003509 with PID 832 (C:\Users\pkambham\Desktop\idigital\SocialMedia (3)\SocialMedia\target\classes started by pkambham in C:\Users\pkambham\Desktop\idigital\SocialMedia (3)\SocialMedia)
+2021-04-27 15:32:48 INFO  No active profile set, falling back to default profiles: default
+2021-04-27 15:32:48 INFO  Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-04-27 15:32:48 INFO  For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-04-27 15:32:50 INFO  Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-27 15:32:50 INFO  Finished Spring Data repository scanning in 152 ms. Found 9 JPA repository interfaces.
+2021-04-27 15:32:51 INFO  Tomcat initialized with port(s): 8081 (http)
+2021-04-27 15:32:51 INFO  Initializing ProtocolHandler ["http-nio-8081"]
+2021-04-27 15:32:51 INFO  Starting service [Tomcat]
+2021-04-27 15:32:51 INFO  Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-04-27 15:32:52 INFO  Initializing Spring embedded WebApplicationContext
+2021-04-27 15:32:52 INFO  Root WebApplicationContext: initialization completed in 3562 ms
+2021-04-27 15:32:52 INFO  HHH000412: Hibernate ORM core version 5.4.29.Final
+2021-04-27 15:32:52 INFO  HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-27 15:32:53 INFO  HikariPool-1 - Starting...
+2021-04-27 15:32:53 INFO  HikariPool-1 - Start completed.
+2021-04-27 15:32:53 INFO  HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2021-04-27 15:32:56 INFO  HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-27 15:32:56 INFO  Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-27 15:32:56 INFO  LiveReload server is running on port 35729
+2021-04-27 15:32:58 INFO  Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-27 15:32:59 INFO  Starting ProtocolHandler ["http-nio-8081"]
+2021-04-27 15:32:59 INFO  Tomcat started on port(s): 8081 (http) with context path ''
+2021-04-27 15:32:59 INFO  Context refreshed
+2021-04-27 15:32:59 INFO  Found 1 custom documentation plugin(s)
+2021-04-27 15:32:59 INFO  Scanning for api listing references
+2021-04-27 15:32:59 INFO  Generating unique operation named: findAllPostUsingGET_1
+2021-04-27 15:32:59 INFO  Generating unique operation named: findAllUserIdUsingGET_1
+2021-04-27 15:32:59 INFO  Generating unique operation named: deleteUserUsingDELETE_1
+2021-04-27 15:32:59 INFO  Generating unique operation named: findAllPostUsingGET_2
+2021-04-27 15:32:59 INFO  Generating unique operation named: deleteCommentUsingDELETE_1
+2021-04-27 15:32:59 INFO  Generating unique operation named: viewAllCommentsUsingGET_1
+2021-04-27 15:33:00 INFO  Generating unique operation named: deletePostUsingDELETE_1
+2021-04-27 15:33:00 INFO  Started SocialMediaApplication in 12.42 seconds (JVM running for 14.698)
+2021-04-27 15:33:21 INFO  Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-27 15:33:21 INFO  Initializing Servlet 'dispatcherServlet'
+2021-04-27 15:33:21 INFO  Completed initialization in 7 ms
+2021-04-27 16:28:28 INFO  Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-27 16:28:28 INFO  Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-27 16:28:28 INFO  HikariPool-1 - Shutdown initiated...
+2021-04-27 16:28:28 INFO  HikariPool-1 - Shutdown completed.
+2021-04-27 16:28:31 INFO  Starting SocialMediaApplication using Java 15.0.2 on LIN83003509 with PID 832 (C:\Users\pkambham\Desktop\idigital\SocialMedia (3)\SocialMedia\target\classes started by pkambham in C:\Users\pkambham\Desktop\idigital\SocialMedia (3)\SocialMedia)
+2021-04-27 16:28:31 INFO  No active profile set, falling back to default profiles: default
+2021-04-27 16:28:32 INFO  Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-27 16:28:32 INFO  Finished Spring Data repository scanning in 89 ms. Found 9 JPA repository interfaces.
+2021-04-27 16:28:32 INFO  Tomcat initialized with port(s): 8081 (http)
+2021-04-27 16:28:32 INFO  Initializing ProtocolHandler ["http-nio-8081"]
+2021-04-27 16:28:32 INFO  Starting service [Tomcat]
+2021-04-27 16:28:32 INFO  Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-04-27 16:28:32 INFO  Initializing Spring embedded WebApplicationContext
+2021-04-27 16:28:32 INFO  Root WebApplicationContext: initialization completed in 1208 ms
+2021-04-27 16:28:32 INFO  HikariPool-2 - Starting...
+2021-04-27 16:28:32 INFO  HikariPool-2 - Start completed.
+2021-04-27 16:28:33 INFO  HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2021-04-27 16:28:34 INFO  HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-27 16:28:34 INFO  Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-27 16:28:34 INFO  LiveReload server is running on port 35729
+2021-04-27 16:28:35 INFO  Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-27 16:28:35 INFO  Starting ProtocolHandler ["http-nio-8081"]
+2021-04-27 16:28:35 INFO  Tomcat started on port(s): 8081 (http) with context path ''
+2021-04-27 16:28:35 INFO  Context refreshed
+2021-04-27 16:28:35 INFO  Found 1 custom documentation plugin(s)
+2021-04-27 16:28:35 INFO  Scanning for api listing references
+2021-04-27 16:28:35 INFO  Generating unique operation named: findAllPostUsingGET_1
+2021-04-27 16:28:35 INFO  Generating unique operation named: findAllUserIdUsingGET_1
+2021-04-27 16:28:35 INFO  Generating unique operation named: deleteUserUsingDELETE_1
+2021-04-27 16:28:35 INFO  Generating unique operation named: findAllPostUsingGET_2
+2021-04-27 16:28:35 INFO  Generating unique operation named: deleteCommentUsingDELETE_1
+2021-04-27 16:28:35 INFO  Generating unique operation named: viewAllCommentsUsingGET_1
+2021-04-27 16:28:36 INFO  Generating unique operation named: deletePostUsingDELETE_1
+2021-04-27 16:28:36 INFO  Started SocialMediaApplication in 4.856 seconds (JVM running for 3350.601)
+2021-04-27 16:28:36 INFO  Condition evaluation unchanged
